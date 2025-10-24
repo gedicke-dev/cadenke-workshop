@@ -1,0 +1,41 @@
+*** This is the Course Database README file ***
+
+OrCAD X Capture
+SPB24.1 Windows release
+ 
+*****************************************************************
+ 
+I.      Course Developer:
+ 
+        Asad Makandar (asadm) +91 8041841020
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+II.     Software Products Required:
+  
+    - PO1100 OrCAD Capture(R)
+	- PS2005 Allegro Design Entry Capture
+	- POX050 OrCAD X Capture
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+III.    Set Up of Course Database:
+ 
+ 
+        - create a training login account.
+        - install the course database and load it in this account.
+        - the course database has the following structure:
+ 
+                              Capture 
+                                 |
+    ------------------------------------------------------
+    |      |         |        |       |       |          |
+ intro  sample  training  release  test  data_files  training_libs
+                 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+V.	Course Outline/Timeline
+
+        See Table of Contents in manuals for course outline.
+
+        See also Course Agenda slide.
+
+########################## END ##################################
+        

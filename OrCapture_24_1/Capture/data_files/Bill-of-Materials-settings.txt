@@ -1,0 +1,18 @@
+Capture Bill-of-Materials Settings
+
+Standard Setting
+
+Item\tQuantity\tReference\tPart
+{Item}\t{Quantity}\t{Reference}\t{Value}
+
+
+Footprint Names
+
+Item\tQuantity\tReference\tPart\tFootprints
+{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}
+
+
+Training Class Settings
+
+Item\tQuantity\tReference\tPart\tFootprint\tPartNumber\tSupplier\tCost
+{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{PART_NUMBER}\t{Vendor}\t{Cost}

@@ -1,0 +1,37 @@
+\t (00:00:04) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Dec  4 09:37:20 2024
+\t (00:00:04)         Host=PC-PC1ZGWVX User=asadm Pid=24268 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe C:\Users\asadm\Downloads\20210420-bimai-02\Capture\site\pcb\symbols\soic16.dra
+\t (00:00:04) 
+\t (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged soic16
+\d (00:00:07) Design opened: C:/Users/asadm/Downloads/20210420-bimai-02/Capture/site/pcb/symbols/soic16.dra
+\i (00:00:07) trapsize 1231
+\i (00:00:07) trapsize 1309
+\i (00:00:07) trapsize 1270
+\i (00:00:07) trapsize 1309
+\i (00:00:07) trapsize 1231
+\i (00:00:07) trapsize 1231
+\i (00:00:07) trapsize 1165
+\i (00:00:08) zoom in 1 
+\t (00:00:08) [09:37:25.369000] Periodic Lic check successful
+[09:37:25.369000] Feature usage summary:
+
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -77.43 115.54
+\i (00:00:08) trapsize 583
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -352.38 116.70
+\i (00:00:09) trapsize 291
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -281.89 145.83
+\i (00:00:09) trapsize 583
+\i (00:00:12) exit 
+\t (00:00:13) Lic Summary:
+[09:37:29.056712] Cdslmd servers:
+[09:37:29.581000] Feature usage summary:
+
+\t (00:00:13)     Journal end - Wed Dec  4 09:37:29 2024

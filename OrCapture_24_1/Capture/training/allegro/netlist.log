@@ -1,0 +1,447 @@
+{ Using PSTWRITER 23.1.0 d001Oct-16-2023 at 11:35:50 }
+
+#1 ERROR(ORCAP-36032): Duplicate Reference Designator U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#2 ERROR(ORCAP-36032): Duplicate Reference Designator U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#3 ERROR(ORCAP-36032): Duplicate Reference Designator U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#4 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (8.00, 2.90).
+#5 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (5.80, 0.70).
+#6 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (1.50, 2.90).
+#7 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (5.80, 2.90).
+#8 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (3.60, 0.70).
+#9 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (8.00, 0.70).
+#10 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (3.60, 2.90).
+#11 ERROR(ORCAP-36032): Duplicate Reference Designator U?: HSRAM, PAGE1 (1.50, 0.70).
+#12 ERROR(ORCAP-36032): Duplicate Reference Designator U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#13 ERROR(ORCAP-36032): Duplicate Reference Designator U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#14 ERROR(ORCAP-36032): Duplicate Reference Designator R?: Training Root Schematic, PAGE2 (7.70, 1.80).
+#15 ERROR(ORCAP-36032): Duplicate Reference Designator R?: Training Root Schematic, PAGE2 (8.10, 1.80).
+#16 ERROR(ORCAP-36032): Duplicate Reference Designator R?: Training Root Schematic, PAGE2 (8.50, 1.80).
+#17 ERROR(ORCAP-36032): Duplicate Reference Designator R?: Training Root Schematic, PAGE2 (8.90, 1.80).
+#18 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (7.10, 0.80).
+#19 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (8.60, 1.20).
+#20 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (7.70, 0.80).
+#21 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (6.80, 1.20).
+#22 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (8.30, 0.80).
+#23 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (7.40, 1.20).
+#24 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (8.90, 0.80).
+#25 ERROR(ORCAP-36032): Duplicate Reference Designator R?: DATA Schematic, PAGE1 (8.00, 1.20).
+#26 ERROR(ORCAP-36032): Duplicate Reference Designator D?: Training Root Schematic, PAGE2 (8.10, 0.70).
+#27 ERROR(ORCAP-36032): Duplicate Reference Designator D?: Training Root Schematic, PAGE2 (8.50, 1.10).
+#28 ERROR(ORCAP-36032): Duplicate Reference Designator D?: Training Root Schematic, PAGE2 (8.90, 0.70).
+#29 ERROR(ORCAP-36032): Duplicate Reference Designator L?: Training Root Schematic, PAGE2 (7.30, 4.90).
+#30 ERROR(ORCAP-36032): Duplicate Reference Designator C?: Training Root Schematic, PAGE2 (8.00, 5.20).
+#31 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (4.90, 6.10).
+#32 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (2.40, 6.10).
+#33 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (3.40, 6.10).
+#34 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (4.40, 6.10).
+#35 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (1.90, 6.10).
+#36 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (2.90, 6.10).
+#37 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (3.90, 6.10).
+#38 ERROR(ORCAP-36032): Duplicate Reference Designator C?: HSRAM, PAGE1 (1.40, 6.10).
+#39 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (8.30, 1.80).
+#40 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (7.40, 2.30).
+#41 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (7.10, 1.80).
+#42 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (8.90, 1.80).
+#43 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (8.00, 2.30).
+#44 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (7.70, 1.80).
+#45 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (6.80, 2.30).
+#46 ERROR(ORCAP-36032): Duplicate Reference Designator C?: DATA Schematic, PAGE1 (8.60, 2.30).
+#47 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#48 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#49 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#50 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#51 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#52 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#53 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#54 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#55 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#56 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#57 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#58 ERROR(ORCAP-36035): Multiple pin 24's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#59 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#60 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#61 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#62 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#63 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#64 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#65 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#66 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#67 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#68 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#69 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#70 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: Training Root Schematic, PAGE2 (2.40, 0.50).
+#71 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#72 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#73 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#74 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#75 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#76 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#77 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#78 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: Training Root Schematic, PAGE2 (0.60, 3.90).
+#79 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#80 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#81 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#82 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#83 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#84 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#85 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#86 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#87 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#88 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#89 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#90 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#91 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#92 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#93 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#94 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#95 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#96 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#97 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#98 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: Training Root Schematic, PAGE2 (6.70, 2.40).
+#99 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#100 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#101 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#102 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#103 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#104 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#105 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#106 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#107 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#108 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#109 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#110 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#111 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#112 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#113 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#114 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#115 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#116 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#117 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#118 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#119 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#120 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#121 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#122 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#123 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#124 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#125 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#126 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#127 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#128 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#129 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 2.90).
+#130 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#131 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#132 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#133 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#134 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#135 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#136 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#137 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#138 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#139 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#140 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#141 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#142 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#143 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#144 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#145 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#146 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#147 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#148 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#149 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#150 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#151 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#152 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#153 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#154 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#155 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#156 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#157 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#158 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#159 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#160 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 0.70).
+#161 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#162 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#163 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#164 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#165 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#166 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#167 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#168 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#169 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#170 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#171 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#172 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#173 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#174 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#175 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#176 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#177 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#178 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#179 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#180 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#181 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#182 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#183 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#184 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#185 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#186 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#187 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#188 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#189 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#190 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#191 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 2.90).
+#192 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#193 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#194 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#195 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#196 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#197 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#198 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#199 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#200 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#201 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#202 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#203 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#204 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#205 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#206 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#207 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#208 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#209 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#210 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#211 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#212 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#213 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#214 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#215 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#216 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#217 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#218 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#219 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#220 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#221 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#222 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (5.80, 2.90).
+#223 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#224 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#225 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#226 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#227 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#228 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#229 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#230 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#231 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#232 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#233 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#234 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#235 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#236 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#237 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#238 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#239 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#240 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#241 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#242 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#243 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#244 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#245 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#246 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#247 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#248 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#249 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#250 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#251 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#252 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#253 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 0.70).
+#254 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#255 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#256 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#257 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#258 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#259 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#260 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#261 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#262 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#263 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#264 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#265 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#266 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#267 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#268 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#269 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#270 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#271 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#272 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#273 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#274 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#275 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#276 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#277 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#278 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#279 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#280 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#281 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#282 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#283 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#284 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (8.00, 0.70).
+#285 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#286 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#287 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#288 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#289 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#290 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#291 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#292 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#293 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#294 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#295 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#296 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#297 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#298 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#299 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#300 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#301 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#302 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#303 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#304 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#305 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#306 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#307 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#308 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#309 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#310 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#311 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#312 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#313 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#314 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#315 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (3.60, 2.90).
+#316 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#317 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#318 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#319 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#320 ERROR(ORCAP-36035): Multiple pin 12's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#321 ERROR(ORCAP-36035): Multiple pin 13's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#322 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#323 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#324 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#325 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#326 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#327 ERROR(ORCAP-36035): Multiple pin 21's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#328 ERROR(ORCAP-36035): Multiple pin 28's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#329 ERROR(ORCAP-36035): Multiple pin 29's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#330 ERROR(ORCAP-36035): Multiple pin 30's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#331 ERROR(ORCAP-36035): Multiple pin 31's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#332 ERROR(ORCAP-36035): Multiple pin 22's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#333 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#334 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#335 ERROR(ORCAP-36035): Multiple pin 23's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#336 ERROR(ORCAP-36035): Multiple pin 26's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#337 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#338 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#339 ERROR(ORCAP-36035): Multiple pin 27's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#340 ERROR(ORCAP-36035): Multiple pin 32's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#341 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#342 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#343 ERROR(ORCAP-36035): Multiple pin 25's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#344 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#345 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#346 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: HSRAM, PAGE1 (1.50, 0.70).
+#347 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#348 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#349 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#350 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#351 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#352 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#353 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#354 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#355 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#356 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#357 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#358 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#359 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#360 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#361 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#362 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#363 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#364 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 1.10).
+#365 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#366 ERROR(ORCAP-36035): Multiple pin 3's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#367 ERROR(ORCAP-36035): Multiple pin 4's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#368 ERROR(ORCAP-36035): Multiple pin 5's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#369 ERROR(ORCAP-36035): Multiple pin 6's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#370 ERROR(ORCAP-36035): Multiple pin 7's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#371 ERROR(ORCAP-36035): Multiple pin 8's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#372 ERROR(ORCAP-36035): Multiple pin 9's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#373 ERROR(ORCAP-36035): Multiple pin 11's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#374 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#375 ERROR(ORCAP-36035): Multiple pin 19's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#376 ERROR(ORCAP-36035): Multiple pin 18's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#377 ERROR(ORCAP-36035): Multiple pin 17's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#378 ERROR(ORCAP-36035): Multiple pin 16's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#379 ERROR(ORCAP-36035): Multiple pin 15's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#380 ERROR(ORCAP-36035): Multiple pin 14's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#381 ERROR(ORCAP-36035): Multiple pin 20's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#382 ERROR(ORCAP-36035): Multiple pin 10's which have different nets connected for U?: DATA Schematic, PAGE1 (2.20, 3.20).
+#383 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: Training Root Schematic, PAGE2 (7.70, 1.80).
+#384 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: Training Root Schematic, PAGE2 (7.70, 1.80).
+#385 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: Training Root Schematic, PAGE2 (8.10, 1.80).
+#386 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: Training Root Schematic, PAGE2 (8.10, 1.80).
+#387 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: Training Root Schematic, PAGE2 (8.50, 1.80).
+#388 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: Training Root Schematic, PAGE2 (8.50, 1.80).
+#389 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: Training Root Schematic, PAGE2 (8.90, 1.80).
+#390 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: Training Root Schematic, PAGE2 (8.90, 1.80).
+#391 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (7.10, 0.80).
+#392 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (7.10, 0.80).
+#393 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (8.60, 1.20).
+#394 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (8.60, 1.20).
+#395 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (7.70, 0.80).
+#396 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (7.70, 0.80).
+#397 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (6.80, 1.20).
+#398 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (6.80, 1.20).
+#399 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (8.30, 0.80).
+#400 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (8.30, 0.80).
+#401 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (7.40, 1.20).
+#402 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (7.40, 1.20).
+#403 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (8.90, 0.80).
+#404 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (8.90, 0.80).
+#405 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R?: DATA Schematic, PAGE1 (8.00, 1.20).
+#406 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for R?: DATA Schematic, PAGE1 (8.00, 1.20).
+#407 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for D?: Training Root Schematic, PAGE2 (8.10, 0.70).
+#408 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for D?: Training Root Schematic, PAGE2 (8.50, 1.10).
+#409 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for D?: Training Root Schematic, PAGE2 (8.90, 0.70).
+#410 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for L?: Training Root Schematic, PAGE2 (7.30, 4.90).
+#411 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for L?: Training Root Schematic, PAGE2 (7.30, 4.90).
+#412 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: Training Root Schematic, PAGE2 (8.00, 5.20).
+#413 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (4.90, 6.10).
+#414 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (4.90, 6.10).
+#415 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (2.40, 6.10).
+#416 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (2.40, 6.10).
+#417 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (3.40, 6.10).
+#418 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (3.40, 6.10).
+#419 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (4.40, 6.10).
+#420 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (4.40, 6.10).
+#421 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (1.90, 6.10).
+#422 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (1.90, 6.10).
+#423 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (2.90, 6.10).
+#424 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (2.90, 6.10).
+#425 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (3.90, 6.10).
+#426 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (3.90, 6.10).
+#427 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: HSRAM, PAGE1 (1.40, 6.10).
+#428 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: HSRAM, PAGE1 (1.40, 6.10).
+#429 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (8.30, 1.80).
+#430 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (8.30, 1.80).
+#431 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (7.40, 2.30).
+#432 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (7.40, 2.30).
+#433 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (7.10, 1.80).
+#434 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (7.10, 1.80).
+#435 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (8.90, 1.80).
+#436 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (8.90, 1.80).
+#437 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (8.00, 2.30).
+#438 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (8.00, 2.30).
+#439 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (7.70, 1.80).
+#440 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (7.70, 1.80).
+#441 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (6.80, 2.30).
+#442 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (6.80, 2.30).
+#443 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for C?: DATA Schematic, PAGE1 (8.60, 2.30).
+#444 ERROR(ORCAP-36035): Multiple pin 2's which have different nets connected for C?: DATA Schematic, PAGE1 (8.60, 2.30).
+#445 ERROR(ORCAP-36018): Netlisting cannot complete because of the errors listed above in the session log. Correct the errors and netlist design.

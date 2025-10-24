@@ -1,0 +1,45 @@
+\t (00:00:04) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Dec  4 09:47:09 2024
+\t (00:00:04)         Host=PC-PC1ZGWVX User=asadm Pid=23240 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe C:\Users\asadm\Downloads\20210420-bimai-02\Capture\site\pcb\symbols\soic14.dra
+\t (00:00:04) 
+\t (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged soic14
+\d (00:00:07) Design opened: C:/Users/asadm/Downloads/20210420-bimai-02/Capture/site/pcb/symbols/soic14.dra
+\i (00:00:07) trapsize 403
+\i (00:00:07) trapsize 415
+\i (00:00:07) trapsize 403
+\i (00:00:07) trapsize 513
+\i (00:00:07) trapsize 467
+\i (00:00:10) save_as 
+\t (00:00:10) [09:47:15.133712] Periodic Lic check successful
+[09:47:15.658000] Feature usage summary:
+
+\i (00:00:13) fillin "soic14.dra"
+\t (00:00:14) Symbol 'soic14.psm' created.
+\i (00:00:17) create symbol 
+\i (00:00:20) fillin "soic14.psm"
+\t (00:00:20) Creating package symbol 'C:/Users/asadm/Downloads/20210420-bimai-02/Capture/site/pcb/symbols/soic14.psm'.
+\t (00:00:20) Starting Create symbol...
+\i (00:00:22) create device 
+\i (00:00:23) setwindow form.crdevice
+\i (00:00:23) FORM crdevice done  
+\t (00:00:23) Device file "soic14.txt" created.
+
+\t (00:00:23) Loading cmds.cxt 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) dlib 
+\i (00:00:28) setwindow form.dlib
+\i (00:00:28) FORM dlib execute  
+\t (00:00:28) Starting Cadence export libraries...
+\t (00:00:29) SpawnProcessExit background process completed status = 0
+
+\i (00:00:30) FORM dlib cancel  
+\i (00:00:32) setwindow pcb
+\i (00:00:32) exit 
+\t (00:00:33) Lic Summary:
+[09:47:38.206712] Cdslmd servers:
+[09:47:38.731000] Feature usage summary:
+
+\t (00:00:33)     Journal end - Wed Dec  4 09:47:38 2024

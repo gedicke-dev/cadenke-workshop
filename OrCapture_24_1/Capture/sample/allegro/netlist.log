@@ -1,0 +1,14 @@
+{ Using PSTWRITER 23.1.0 d001Oct-16-2023 at 11:27:13 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "P3.10" ignored for P3: Schematic, PAGE4 (2.10, 9.90). Connecting pin to net "GND".
+#2 WARNING(ORCAP-36006): Part Name "MC56001_PGA11_050_88_D034_W1200_MC56001_+5_+5_+5_+5_+5_+5_+5_+5_+5_+5_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17_PCD17" is renamed to "MC56001_PGA11_050_88_D034_W1200_MC56001_+5_+5_+5_+5_+5_+5_+5_+5_+5_+5_PCD17_PCD17_PCD17_PCD17_PCD17_".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\SAMPLE\allegro\pstchip.dat
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\SAMPLE\allegro\pstchip.dat
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\SAMPLE\allegro\pstxprt.dat
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\SAMPLE\allegro\pstxnet.dat
+packaging the design view...

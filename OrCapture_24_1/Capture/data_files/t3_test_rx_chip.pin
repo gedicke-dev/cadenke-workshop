@@ -1,0 +1,1086 @@
+ -- Copyright (C) 1991-2005 Altera Corporation
+ -- Your use of Altera Corporation's design tools, logic functions 
+ -- and other software and tools, and its AMPP partner logic 
+ -- functions, and any output files any of the foregoing 
+ -- (including device programming or simulation files), and any 
+ -- associated documentation or information are expressly subject 
+ -- to the terms and conditions of the Altera Program License 
+ -- Subscription Agreement, Altera MegaCore Function License 
+ -- Agreement, or other applicable license agreement, including, 
+ -- without limitation, that your use is for the sole purpose of 
+ -- programming logic devices manufactured by Altera and sold by 
+ -- Altera or its authorized distributors.  Please refer to the 
+ -- applicable agreement for further details.
+ -- 
+ -- This is a Quartus II output file. It is for reporting purposes only, and is
+ -- not intended for use as a Quartus II input file. This file cannot be used
+ -- to make Quartus II pin assignments - for instructions on how to make pin
+ -- assignments, please see Quartus II help.
+ ---------------------------------------------------------------------------------
+
+
+
+ ---------------------------------------------------------------------------------
+ -- NC            : No Connect. This pin has no internal connection to the device.
+ -- VCCINT        : Dedicated power pin, which MUST be connected to VCC  (1.2V).
+ -- VCCIO         : Dedicated power pin, which MUST be connected to VCC
+ --                 of its bank.
+ --					Bank 1:		2.5V
+ --					Bank 2:		2.5V
+ --					Bank 3:		1.8V
+ --					Bank 4:		1.8V
+ --					Bank 5:		1.5V
+ --					Bank 6:		2.5V
+ --					Bank 7:		1.8V
+ --					Bank 8:		1.8V
+ --					Bank 9:		3.3V
+ --					Bank 10:	3.3V
+ --					Bank 11:	3.3V
+ --					Bank 12:	3.3V
+ -- GND           : Dedicated ground pin. Dedicated GND pins MUST be connected to GND.
+ --					It can also be used to report unused dedicated pins. The connection
+ --					on the board for unused dedicated pins depends on whether this will
+ --					be used in a future design. One example is device migration. When
+ --					using device migration, refer to the device pin-tables. If it is a
+ --					GND pin in the pin table or if it will not be used in a future design
+ --					for another purpose the it MUST be connected to GND. If it is an unused
+ --					dedicated pin, then it can be connected to a valid signal on the board
+ --					(low, high, or toggling) if that signal is required for a different
+ --					revision of the design.
+ -- GND          : Unused input pin. It can also be used to report unused dual-purpose pins.
+ --					This pin should be connected to GND. It may also be connected  to a
+ --					valid signal  on the board  (low, high, or toggling)  if that signal
+ --					is required for a different revision of the design.
+ -- GND          : Unused  I/O  pin.   This pin can either be left unconnected or
+ --           	    connected to GND.  Connecting this pin to GND will improve the
+ --           	    device's immunity to noise.
+ -- RESERVED      : Unused I/O pin, which MUST be left unconnected.
+ -- RESERVED_INPUT    : Pin is tri-stated and should be connected to the board.
+ -- RESERVED_INPUT_WITH_WEAK_PULLUP    : Pin is tri-stated with internal weak pull-up resistor.
+ ---------------------------------------------------------------------------------
+
+Quartus II Version 5.1 Build 176 10/26/2005 SJ Full Version
+CHIP  "t3_test_rx_chip"  ASSIGNED TO AN: EP2S90F1020C5
+
+Pin Name/Usage               : Location  : Dir.   : I/O Standard      : Voltage : I/O Bank  : User Assignment
+-------------------------------------------------------------------------------------------------------------
+GND                          : A2        : gnd    :                   :         :           :                
+VCCIO4                       : A3        : power  :                   : 1.8V    : 4         :                
+rx_cmem_data[0]              : A4        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[5]              : A5        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[7]              : A6        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[11]             : A7        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : A8        :        :                   :         : 4         :                
+rx_cmem_data[16]             : A9        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[19]             : A10       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[26]             : A11       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_par[0]               : A12       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                          : A13       : gnd    :                   :         :           :                
+fbclk_out_n                  : A14       : output : SSTL-18 Class II  :         : 4         : Y              
+VCCIO4                       : A15       : power  :                   : 1.8V    : 4         :                
+fbclk_in_p                   : A16       : input  : Differential 1.8-V SSTL Class II :         : 4         : Y              
+GND                         : A17       :        :                   :         : 3         :                
+VCCIO3                       : A18       : power  :                   : 1.8V    : 3         :                
+GND                         : A19       :        :                   :         : 11        :                
+GND                          : A20       : gnd    :                   :         :           :                
+sdrclk0_p                    : A21       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                         : A22       :        :                   :         : 3         :                
+sdrclk0_n                    : A23       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[48]             : A24       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[54]             : A25       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[56]             : A26       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : A27       :        :                   :         : 3         :                
+rx_cmem_dqs[7]               : A28       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[59]             : A29       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+VCCIO3                       : A30       : power  :                   : 1.8V    : 3         :                
+GND                          : A31       : gnd    :                   :         :           :                
+tx_active[3]                 : AA1       : input  : 2.5 V             :         : 6         : Y              
+tx_active[2]                 : AA2       : input  : 2.5 V             :         : 6         : Y              
+tx_active[1]                 : AA3       : input  : 2.5 V             :         : 6         : Y              
+tx_active[0]                 : AA4       : input  : 2.5 V             :         : 6         : Y              
+VCCIO6                       : AA5       : power  :                   : 2.5V    : 6         :                
+GND                         : AA6       :        :                   :         : 6         :                
+GND                         : AA7       :        :                   :         : 6         :                
+GND                         : AA8       :        :                   :         : 6         :                
+GND                         : AA9       :        :                   :         : 6         :                
+GND                         : AA10      :        :                   :         : 6         :                
+GND                         : AA11      :        :                   :         : 6         :                
+VCCINT                       : AA12      : power  :                   : 1.2V    :           :                
+VCCPD7                       : AA13      : power  :                   : 3.3V    : 7         :                
+GND                          : AA14      : gnd    :                   :         :           :                
+VCCPD7                       : AA15      : power  :                   : 3.3V    : 7         :                
+VCCIO7                       : AA16      : power  :                   : 1.8V    : 7         :                
+VCCIO8                       : AA17      : power  :                   : 1.8V    : 8         :                
+VCCPD8                       : AA18      : power  :                   : 3.3V    : 8         :                
+GND                          : AA19      : gnd    :                   :         :           :                
+VCCPD8                       : AA20      : power  :                   : 3.3V    : 8         :                
+GND                          : AA21      : gnd    :                   :         :           :                
+GND                         : AA22      :        :                   :         : 1         :                
+GND                         : AA23      :        :                   :         : 1         :                
+GND                         : AA24      :        :                   :         : 1         :                
+GND                         : AA25      :        :                   :         : 1         :                
+rx_tcp_ser[2](n)             : AA26      : output : LVDS              :         : 1         : N              
+rx_tcp_ser[2]                : AA27      : output : LVDS              :         : 1         : Y              
+VCCIO1                       : AA28      : power  :                   : 2.5V    : 1         :                
+GND                         : AA29      :        :                   :         : 1         :                
+GND                         : AA30      :        :                   :         : 1         :                
+GND                         : AA31      :        :                   :         : 1         :                
+GND                         : AA32      :        :                   :         : 1         :                
+pci_clk                      : AB1       : input  : 2.5 V             :         : 6         : Y              
+GND                         : AB2       :        :                   :         : 6         :                
+GND                         : AB3       :        :                   :         : 6         :                
+pci_trdy_low                 : AB4       : output : 2.5 V             :         : 6         : Y              
+pci_stop_low                 : AB5       : output : 2.5 V             :         : 6         : Y              
+pci_par                      : AB6       : bidir  : 2.5 V             :         : 6         : Y              
+pci_irdy_low                 : AB7       : input  : 2.5 V             :         : 6         : Y              
+pci_int_low                  : AB8       : output : 2.5 V             :         : 6         : Y              
+pci_frame_low                : AB9       : input  : 2.5 V             :         : 6         : Y              
+pci_devsel_low               : AB10      : output : 2.5 V             :         : 6         : Y              
+GND                         : AB11      :        :                   :         : 7         :                
+GND                         : AB12      :        :                   :         : 7         :                
+GND                         : AB13      :        :                   :         : 7         :                
+GND                         : AB14      :        :                   :         : 7         :                
+rx_bmem_ras_low              : AB15      : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_bank[0]              : AB16      : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_addr[0]              : AB17      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_addr[3]              : AB18      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AB19      :        :                   :         : 8         :                
+GND                         : AB20      :        :                   :         : 8         :                
+GND                         : AB21      :        :                   :         : 8         :                
+GND                          : AB22      : gnd    :                   :         :           :                
+GND                         : AB23      :        :                   :         : 1         :                
+GND                         : AB24      :        :                   :         : 1         :                
+GND                         : AB25      :        :                   :         : 1         :                
+lvds_txclk_out               : AB26      : output : 2.5 V             :         : 1         : Y              
+GND                         : AB27      :        :                   :         : 1         :                
+GND                         : AB28      :        :                   :         : 1         :                
+GND                         : AB29      :        :                   :         : 1         :                
+GND                         : AB30      :        :                   :         : 1         :                
+GND                         : AB31      :        :                   :         : 1         :                
+GND                         : AB32      :        :                   :         : 1         :                
+pci_ad[0]                    : AC1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[1]                    : AC2       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[2]                    : AC3       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[3]                    : AC4       : bidir  : 2.5 V             :         : 6         : Y              
+GND                          : AC5       : gnd    :                   :         :           :                
+pci_c_be[3]                  : AC6       : input  : 2.5 V             :         : 6         : Y              
+pci_c_be[2]                  : AC7       : input  : 2.5 V             :         : 6         : Y              
+pci_c_be[1]                  : AC8       : input  : 2.5 V             :         : 6         : Y              
+pci_c_be[0]                  : AC9       : input  : 2.5 V             :         : 6         : Y              
+VCCINT                       : AC10      : power  :                   : 1.2V    :           :                
+GND                         : AC11      :        :                   :         : 7         :                
+rx_dimm_reset                : AC12      : output : 1.8 V             :         : 7         : Y              
+GND                         : AC13      :        :                   :         : 7         :                
+GND                         : AC14      :        :                   :         : 7         :                
+rx_bmem_cas_low              : AC15      : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_bank[1]              : AC16      : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_addr[10]             : AC17      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_addr[2]              : AC18      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_addr[5]              : AC19      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AC20      :        :                   :         : 8         :                
+rx_bmem_addr[12]             : AC21      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AC22      :        :                   :         : 8         :                
+VCCSEL                       : AC23      :        :                   :         : 8         :                
+GND                         : AC24      :        :                   :         : 1         :                
+GND                         : AC25      :        :                   :         : 1         :                
+GND                         : AC26      :        :                   :         : 1         :                
+GND                         : AC27      :        :                   :         : 1         :                
+GND                          : AC28      : gnd    :                   :         :           :                
+GND                         : AC29      :        :                   :         : 1         :                
+GND                         : AC30      :        :                   :         : 1         :                
+GND                         : AC31      :        :                   :         : 1         :                
+GND                         : AC32      :        :                   :         : 1         :                
+pci_ad[4]                    : AD1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[5]                    : AD2       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[6]                    : AD3       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[7]                    : AD4       : bidir  : 2.5 V             :         : 6         : Y              
+VREFB6                       : AD5       : power  :                   :         : 6         :                
+pci_ad[8]                    : AD6       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[9]                    : AD7       : bidir  : 2.5 V             :         : 6         : Y              
+GND                         : AD8       :        :                   :         : 6         :                
+GND                         : AD9       :        :                   :         : 6         :                
+GND                         : AD10      :        :                   :         : 7         :                
+GND                         : AD11      :        :                   :         : 7         :                
+GND                         : AD12      :        :                   :         : 7         :                
+GND                         : AD13      :        :                   :         : 7         :                
+rx_bmem_we_low               : AD14      : output : SSTL-18 Class II  :         : 7         : Y              
+VCCD_PLL6                    : AD15      : power  :                   : 1.2V    :           :                
+GNDA_PLL6                    : AD16      : gnd    :                   :         :           :                
+GNDA_PLL12                   : AD17      : gnd    :                   :         :           :                
+rx_bmem_addr[1]              : AD18      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_addr[8]              : AD19      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AD20      :        :                   :         : 8         :                
+rx_bmem_addr[11]             : AD21      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AD22      :        :                   :         : 8         :                
+GND                         : AD23      :        :                   :         : 8         :                
+GND                         : AD24      :        :                   :         : 1         :                
+GND                         : AD25      :        :                   :         : 1         :                
+GND                         : AD26      :        :                   :         : 1         :                
+GND                         : AD27      :        :                   :         : 1         :                
+VREFB1                       : AD28      : power  :                   :         : 1         :                
+GND                         : AD29      :        :                   :         : 1         :                
+GND                         : AD30      :        :                   :         : 1         :                
+GND                         : AD31      :        :                   :         : 1         :                
+GND                         : AD32      :        :                   :         : 1         :                
+pci_ad[10]                   : AE1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[11]                   : AE2       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[12]                   : AE3       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[13]                   : AE4       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[14]                   : AE5       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[15]                   : AE6       : bidir  : 2.5 V             :         : 6         : Y              
+VCCA_PLL9                    : AE7       : power  :                   : 1.2V    :           :                
+VCCD_PLL9                    : AE8       : power  :                   : 1.2V    :           :                
+rx_bmem_addr[13]             : AE9       : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_cs_low[0]            : AE10      : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_cs_low[1]            : AE11      : output : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AE12      :        :                   :         : 7         :                
+GND                         : AE13      :        :                   :         : 7         :                
+rx_bmem_odt[0]               : AE14      : output : SSTL-18 Class II  :         : 7         : Y              
+VCCA_PLL6                    : AE15      : power  :                   : 1.2V    :           :                
+GNDA_PLL6                    : AE16      : gnd    :                   :         :           :                
+GNDA_PLL12                   : AE17      : gnd    :                   :         :           :                
+VCCD_PLL12                   : AE18      : power  :                   : 1.2V    :           :                
+rx_bmem_addr[6]              : AE19      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AE20      :        :                   :         : 8         :                
+rx_bmem_addr[7]              : AE21      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_cke                  : AE22      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AE23      :        :                   :         : 8         :                
+TMS                          : AE24      : input  :                   :         : 8         :                
+GND                         : AE25      :        :                   :         : 1         :                
+GND                         : AE26      :        :                   :         : 1         :                
+tcp_rx_no_rm[3]              : AE27      : output : 2.5 V             :         : 1         : Y              
+GND                         : AE28      :        :                   :         : 1         :                
+GND                         : AE29      :        :                   :         : 1         :                
+GND                         : AE30      :        :                   :         : 1         :                
+GND                         : AE31      :        :                   :         : 1         :                
+GND                         : AE32      :        :                   :         : 1         :                
+pci_ad[16]                   : AF1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[17]                   : AF2       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[18]                   : AF3       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[19]                   : AF4       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[20]                   : AF5       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[21]                   : AF6       : bidir  : 2.5 V             :         : 6         : Y              
+GNDA_PLL9                    : AF7       : gnd    :                   :         :           :                
+PLL_ENA                      : AF8       :        :                   :         : 7         :                
+GND                          : AF9       : gnd    :                   :         :           :                
+rx_bmem_data[48]             : AF10      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_dqs[5]               : AF11      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[41]             : AF12      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AF13      :        :                   :         : 7         :                
+rx_bmem_odt[1]               : AF14      : output : SSTL-18 Class II  :         : 7         : Y              
+VCC_PLL6_OUT                 : AF15      : power  :                   : 3.3V    : 10        :                
+VCC_PLL12_OUT                : AF16      : power  :                   : 3.3V    : 12        :                
+GND                          : AF17      : gnd    :                   :         :           :                
+VCCA_PLL12                   : AF18      : power  :                   : 1.2V    :           :                
+rx_bmem_addr[4]              : AF19      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_addr[9]              : AF20      : output : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_bank[2]              : AF21      : output : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AF22      :        :                   :         : 8         :                
+GND                         : AF23      :        :                   :         : 8         :                
+TCK                          : AF24      : input  :                   :         : 8         :                
+VCCD_PLL8                    : AF25      : power  :                   : 1.2V    :           :                
+VCCA_PLL8                    : AF26      : power  :                   : 1.2V    :           :                
+tcp_rx_no_rm[2]              : AF27      : output : 2.5 V             :         : 1         : Y              
+tcp_rx_no_rm[1]              : AF28      : output : 2.5 V             :         : 1         : Y              
+tcp_rx_no_rm[0]              : AF29      : output : 2.5 V             :         : 1         : Y              
+send_pause[1]                : AF30      : output : 2.5 V             :         : 1         : Y              
+send_pause[0]                : AF31      : output : 2.5 V             :         : 1         : Y              
+rx_tx_spare[3]               : AF32      : output : 2.5 V             :         : 1         : Y              
+pci_ad[22]                   : AG1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[23]                   : AG2       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[24]                   : AG3       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[25]                   : AG4       : bidir  : 2.5 V             :         : 6         : Y              
+VREFB6                       : AG5       : power  :                   :         : 6         :                
+GND                          : AG6       : gnd    :                   :         :           :                
+GNDA_PLL9                    : AG7       : gnd    :                   :         :           :                
+rx_bmem_data[49]             : AG8       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[42]             : AG9       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[40]             : AG10      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[37]             : AG11      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[33]             : AG12      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[32]             : AG13      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+sdrclk1_n                    : AG14      : output : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AG15      :        :                   :         : 7         :                
+GND                         : AG16      :        :                   :         : 7         :                
+GND                         : AG17      :        :                   :         : 8         :                
+GND                         : AG18      :        :                   :         : 8         :                
+GND                         : AG19      :        :                   :         : 8         :                
+GND                         : AG20      :        :                   :         : 8         :                
+GND                         : AG21      :        :                   :         : 8         :                
+rx_bmem_par[0]               : AG22      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[24]             : AG23      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[20]             : AG24      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AG25      :        :                   :         : 8         :                
+GNDA_PLL8                    : AG26      : gnd    :                   :         :           :                
+GNDA_PLL8                    : AG27      : gnd    :                   :         :           :                
+VREFB1                       : AG28      : power  :                   :         : 1         :                
+rx_tx_spare[2]               : AG29      : output : 2.5 V             :         : 1         : Y              
+rx_tx_spare[1]               : AG30      : output : 2.5 V             :         : 1         : Y              
+rx_tx_spare[0]               : AG31      : output : 2.5 V             :         : 1         : Y              
+rx_tcp_spare[3]              : AG32      : output : 2.5 V             :         : 1         : Y              
+pci_ad[26]                   : AH1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[27]                   : AH2       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[28]                   : AH3       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[29]                   : AH4       : bidir  : 2.5 V             :         : 6         : Y              
+rx_bmem_data[62]             : AH5       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[56]             : AH6       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AH7       :        :                   :         : 7         :                
+rx_bmem_data[52]             : AH8       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AH9       :        :                   :         : 7         :                
+GND                          : AH10      : gnd    :                   :         :           :                
+rx_bmem_data[44]             : AH11      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+VCCIO7                       : AH12      : power  :                   : 1.8V    : 7         :                
+sdrclk1_p                    : AH13      : output : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_par[6]               : AH14      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AH15      :        :                   :         : 10        :                
+GND                         : AH16      :        :                   :         : 7         :                
+GND                         : AH17      :        :                   :         : 8         :                
+GND                         : AH18      :        :                   :         : 12        :                
+rx_bmem_par[4]               : AH19      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_par[1]               : AH20      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+VCCIO8                       : AH21      : power  :                   : 1.8V    : 8         :                
+GND                         : AH22      :        :                   :         : 8         :                
+GND                          : AH23      : gnd    :                   :         :           :                
+rx_bmem_data[18]             : AH24      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[16]             : AH25      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[13]             : AH26      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                          : AH27      : gnd    :                   :         :           :                
+rx_bmem_dqs[0]               : AH28      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_tcp_spare[2]              : AH29      : output : 2.5 V             :         : 1         : Y              
+rx_tcp_spare[1]              : AH30      : output : 2.5 V             :         : 1         : Y              
+rx_tcp_spare[0]              : AH31      : output : 2.5 V             :         : 1         : Y              
+rx_no_buffers                : AH32      : output : 2.5 V             :         : 1         : Y              
+pci_ad[30]                   : AJ1       : bidir  : 2.5 V             :         : 6         : Y              
+pci_ad[31]                   : AJ2       : bidir  : 2.5 V             :         : 6         : Y              
+GND                         : AJ3       :        :                   :         : 6         :                
+GND                         : AJ4       :        :                   :         : 6         :                
+rx_bmem_data[63]             : AJ5       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[57]             : AJ6       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AJ7       :        :                   :         : 7         :                
+rx_bmem_data[53]             : AJ8       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+VREFB7                       : AJ9       : power  :                   : 0.9V    : 7         :                
+rx_bmem_data[46]             : AJ10      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[45]             : AJ11      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AJ12      :        :                   :         : 7         :                
+rx_bmem_data[36]             : AJ13      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_dqs[8]               : AJ14      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AJ15      :        :                   :         : 10        :                
+GND                         : AJ16      :        :                   :         : 10        :                
+GND                         : AJ17      :        :                   :         : 8         :                
+GND                         : AJ18      :        :                   :         : 12        :                
+rx_bmem_par[5]               : AJ19      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[26]             : AJ20      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AJ21      :        :                   :         : 8         :                
+GND                         : AJ22      :        :                   :         : 8         :                
+rx_bmem_data[25]             : AJ23      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+VREFB8                       : AJ24      : power  :                   : 0.9V    : 8         :                
+rx_bmem_dqs[1]               : AJ25      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[11]             : AJ26      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[8]              : AJ27      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[5]              : AJ28      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AJ29      :        :                   :         : 1         :                
+GND                         : AJ30      :        :                   :         : 1         :                
+pause_rcvd[1]                : AJ31      : output : 2.5 V             :         : 1         : Y              
+pause_rcvd[0]                : AJ32      : output : 2.5 V             :         : 1         : Y              
+VCCIO6                       : AK1       : power  :                   : 2.5V    : 6         :                
+VREFB7                       : AK2       : power  :                   : 0.9V    : 7         :                
+nIO_PULLUP                   : AK3       :        :                   :         : 7         :                
+GND                         : AK4       :        :                   :         : 7         :                
+GND                         : AK5       :        :                   :         : 7         :                
+rx_bmem_data[60]             : AK6       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_dqs[6]               : AK7       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[54]             : AK8       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[47]             : AK9       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[38]             : AK10      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AK11      :        :                   :         : 7         :                
+GND                         : AK12      :        :                   :         : 7         :                
+rx_bmem_par[7]               : AK13      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+VREFB7                       : AK14      : power  :                   : 0.9V    : 7         :                
+GND                         : AK15      :        :                   :         : 10        :                
+GND                         : AK16      :        :                   :         : 10        :                
+GND                         : AK17      :        :                   :         : 8         :                
+GND                         : AK18      :        :                   :         : 12        :                
+VREFB8                       : AK19      : power  :                   : 0.9V    : 8         :                
+rx_bmem_data[27]             : AK20      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AK21      :        :                   :         : 8         :                
+GND                         : AK22      :        :                   :         : 8         :                
+rx_bmem_data[28]             : AK23      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[19]             : AK24      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[17]             : AK25      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[10]             : AK26      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[9]              : AK27      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[2]              : AK28      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[4]              : AK29      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+TRST                         : AK30      : input  :                   :         : 8         :                
+VREFB8                       : AK31      : power  :                   : 0.9V    : 8         :                
+VCCIO1                       : AK32      : power  :                   : 2.5V    : 1         :                
+GND                          : AL1       : gnd    :                   :         :           :                
+PORSEL                       : AL2       :        :                   :         : 7         :                
+nCEO                         : AL3       :        :                   :         : 7         :                
+rx_bmem_data[58]             : AL4       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_dqs[7]               : AL5       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[61]             : AL6       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AL7       :        :                   :         : 7         :                
+rx_bmem_data[55]             : AL8       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[43]             : AL9       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[39]             : AL10      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_data[34]             : AL11      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_dqs[4]               : AL12      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+rx_bmem_par[3]               : AL13      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AL14      :        :                   :         : 7         :                
+GND                         : AL15      :        :                   :         : 10        :                
+GND                         : AL16      :        :                   :         : 7         :                
+GND                         : AL17      :        :                   :         : 8         :                
+GND                         : AL18      :        :                   :         : 12        :                
+GND                         : AL19      :        :                   :         : 12        :                
+rx_bmem_par[2]               : AL20      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[30]             : AL21      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[29]             : AL22      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AL23      :        :                   :         : 8         :                
+rx_bmem_data[22]             : AL24      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[21]             : AL25      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[14]             : AL26      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[12]             : AL27      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[3]              : AL28      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[1]              : AL29      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+nCONFIG                      : AL30      :        :                   :         : 8         :                
+TDI                          : AL31      : input  :                   :         : 8         :                
+GND                          : AL32      : gnd    :                   :         :           :                
+GND                          : AM2       : gnd    :                   :         :           :                
+VCCIO7                       : AM3       : power  :                   : 1.8V    : 7         :                
+rx_bmem_data[59]             : AM4       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AM5       :        :                   :         : 7         :                
+GND                         : AM6       :        :                   :         : 7         :                
+GND                         : AM7       :        :                   :         : 7         :                
+rx_bmem_data[50]             : AM8       : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AM9       :        :                   :         : 7         :                
+rx_bmem_data[51]             : AM10      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                         : AM11      :        :                   :         : 7         :                
+rx_bmem_data[35]             : AM12      : bidir  : SSTL-18 Class II  :         : 7         : Y              
+GND                          : AM13      : gnd    :                   :         :           :                
+GND                         : AM14      :        :                   :         : 7         :                
+VCCIO7                       : AM15      : power  :                   : 1.8V    : 7         :                
+GND                         : AM16      :        :                   :         : 7         :                
+inclk45                      : AM17      : input  : 1.8 V             :         : 8         : Y              
+VCCIO8                       : AM18      : power  :                   : 1.8V    : 8         :                
+GND                         : AM19      :        :                   :         : 12        :                
+GND                          : AM20      : gnd    :                   :         :           :                
+rx_bmem_data[31]             : AM21      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_dqs[3]               : AM22      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+GND                         : AM23      :        :                   :         : 8         :                
+rx_bmem_data[23]             : AM24      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_dqs[2]               : AM25      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[15]             : AM26      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[7]              : AM27      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[6]              : AM28      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+rx_bmem_data[0]              : AM29      : bidir  : SSTL-18 Class II  :         : 8         : Y              
+VCCIO8                       : AM30      : power  :                   : 1.8V    : 8         :                
+GND                          : AM31      : gnd    :                   :         :           :                
+GND                          : B1        : gnd    :                   :         :           :                
+MSEL0                        : B2        :        :                   :         : 4         :                
+TEMPDIODEn                   : B3        :        :                   :         :           :                
+rx_cmem_data[1]              : B4        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_dqs[0]               : B5        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[8]              : B6        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[10]             : B7        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[17]             : B8        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[22]             : B9        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : B10       :        :                   :         : 4         :                
+rx_cmem_data[27]             : B11       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_par[1]               : B12       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_dqs[8]               : B13       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+fbclk_out_p                  : B14       : output : SSTL-18 Class II  :         : 4         : Y              
+GND                         : B15       :        :                   :         : 9         :                
+fbclk_in_p(n)                : B16       : input  : Differential 1.8-V SSTL Class II :         : 4         : N              
+GND                         : B17       :        :                   :         : 3         :                
+GND                         : B18       :        :                   :         : 11        :                
+GND                         : B19       :        :                   :         : 11        :                
+rx_cmem_data[34]             : B20       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[44]             : B21       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : B22       :        :                   :         : 3         :                
+rx_cmem_data[42]             : B23       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : B24       :        :                   :         : 3         :                
+rx_cmem_data[49]             : B25       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[55]             : B26       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[57]             : B27       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[62]             : B28       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : B29       :        :                   :         : 3         :                
+nSTATUS                      : B30       :        :                   :         : 3         :                
+DCLK                         : B31       :        :                   :         : 3         :                
+GND                          : B32       : gnd    :                   :         :           :                
+VCCIO5                       : C1        : power  :                   : 1.5V    : 5         :                
+VREFB4                       : C2        : power  :                   : 0.9V    : 4         :                
+TDO                          : C3        : output :                   :         : 4         :                
+rx_cmem_data[4]              : C4        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[2]              : C5        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[9]              : C6        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[14]             : C7        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[21]             : C8        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[23]             : C9        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[24]             : C10       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : C11       :        :                   :         : 4         :                
+GND                         : C12       :        :                   :         : 4         :                
+rx_cmem_par[6]               : C13       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+VREFB4                       : C14       : power  :                   : 0.9V    : 4         :                
+GND                         : C15       :        :                   :         : 9         :                
+GND                         : C16       :        :                   :         : 9         :                
+GND                         : C17       :        :                   :         : 3         :                
+GND                         : C18       :        :                   :         : 11        :                
+VREFB3                       : C19       : power  :                   : 0.9V    : 3         :                
+rx_cmem_data[38]             : C20       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[45]             : C21       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : C22       :        :                   :         : 3         :                
+rx_cmem_data[46]             : C23       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[52]             : C24       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[50]             : C25       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[60]             : C26       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : C27       :        :                   :         : 3         :                
+rx_cmem_data[63]             : C28       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : C29       :        :                   :         : 3         :                
+nCE                          : C30       :        :                   :         : 3         :                
+VREFB3                       : C31       : power  :                   : 0.9V    : 3         :                
+VCCIO2                       : C32       : power  :                   : 2.5V    : 2         :                
+rx_xgmii_0_d[30]             : D1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[31]             : D2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_clk               : D3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : D4        :        :                   :         : 5         :                
+rx_cmem_data[3]              : D5        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[12]             : D6        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_dqs[1]               : D7        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_dqs[2]               : D8        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+VREFB4                       : D9        : power  :                   : 0.9V    : 4         :                
+rx_cmem_data[25]             : D10       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[28]             : D11       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : D12       :        :                   :         : 4         :                
+rx_cmem_par[7]               : D13       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[32]             : D14       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : D15       :        :                   :         : 9         :                
+GND                         : D16       :        :                   :         : 9         :                
+GND                         : D17       :        :                   :         : 3         :                
+GND                         : D18       :        :                   :         : 11        :                
+rx_cmem_data[35]             : D19       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[39]             : D20       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_dqs[5]               : D21       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[47]             : D22       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[53]             : D23       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+VREFB3                       : D24       : power  :                   : 0.9V    : 3         :                
+GND                         : D25       :        :                   :         : 3         :                
+rx_cmem_data[61]             : D26       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : D27       :        :                   :         : 3         :                
+rx_cmem_data[58]             : D28       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : D29       :        :                   :         : 2         :                
+GND                         : D30       :        :                   :         : 2         :                
+GND                         : D31       :        :                   :         : 2         :                
+inclk66                      : D32       : input  : 2.5 V             :         : 2         : Y              
+rx_xgmii_0_d[26]             : E1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[27]             : E2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[28]             : E3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[29]             : E4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_cmem_data[6]              : E5        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[13]             : E6        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[15]             : E7        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[20]             : E8        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_dqs[3]               : E9        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                          : E10       : gnd    :                   :         :           :                
+rx_cmem_data[29]             : E11       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+VCCIO4                       : E12       : power  :                   : 1.8V    : 4         :                
+rx_cmem_par[2]               : E13       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[33]             : E14       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : E15       :        :                   :         : 9         :                
+GND                         : E16       :        :                   :         : 4         :                
+GND                         : E17       :        :                   :         : 3         :                
+GND                         : E18       :        :                   :         : 11        :                
+rx_cmem_data[41]             : E19       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_data[40]             : E20       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+VCCIO3                       : E21       : power  :                   : 1.8V    : 3         :                
+rx_cmem_data[43]             : E22       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                          : E23       : gnd    :                   :         :           :                
+rx_cmem_data[51]             : E24       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_cs_low[1]            : E25       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_addr[13]             : E26       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                         : E27       :        :                   :         : 3         :                
+GND                         : E28       :        :                   :         : 3         :                
+rx_tcp_no_rm[0]              : E29       : input  : 2.5 V             :         : 2         : Y              
+rx_tcp_no_rm[1]              : E30       : input  : 2.5 V             :         : 2         : Y              
+rx_tcp_no_rm[2]              : E31       : input  : 2.5 V             :         : 2         : Y              
+rx_tcp_no_rm[3]              : E32       : input  : 2.5 V             :         : 2         : Y              
+rx_xgmii_0_d[22]             : F1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[23]             : F2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[24]             : F3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[25]             : F4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VREFB5                       : F5        : power  :                   : 0.75V   : 5         :                
+MSEL1                        : F6        :        :                   :         : 4         :                
+GND                          : F7        : gnd    :                   :         :           :                
+rx_cmem_data[18]             : F8        : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : F9        :        :                   :         : 4         :                
+GND                         : F10       :        :                   :         : 4         :                
+rx_cmem_data[30]             : F11       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_par[4]               : F12       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_par[3]               : F13       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[36]             : F14       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_dqs[4]               : F15       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : F16       :        :                   :         : 4         :                
+GND                         : F17       :        :                   :         : 3         :                
+GND                         : F18       :        :                   :         : 3         :                
+GND                         : F19       :        :                   :         : 3         :                
+GND                         : F20       :        :                   :         : 3         :                
+GND                         : F21       :        :                   :         : 3         :                
+rx_cmem_dqs[6]               : F22       : bidir  : SSTL-18 Class II  :         : 3         : Y              
+GND                         : F23       :        :                   :         : 3         :                
+rx_cmem_odt[0]               : F24       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_cs_low[0]            : F25       : output : SSTL-18 Class II  :         : 3         : Y              
+GNDA_PLL7                    : F26       : gnd    :                   :         :           :                
+GND                          : F27       : gnd    :                   :         :           :                
+VREFB2                       : F28       : power  :                   :         : 2         :                
+tcp_rx_spare[0]              : F29       : input  : 2.5 V             :         : 2         : Y              
+tcp_rx_spare[1]              : F30       : input  : 2.5 V             :         : 2         : Y              
+tcp_rx_spare[2]              : F31       : input  : 2.5 V             :         : 2         : Y              
+tcp_rx_spare[3]              : F32       : input  : 2.5 V             :         : 2         : Y              
+rx_xgmii_0_d[16]             : G1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[17]             : G2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[18]             : G3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : G4        :        :                   :         : 5         :                
+rx_xgmii_0_d[20]             : G5        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[21]             : G6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GNDA_PLL10                   : G7        : gnd    :                   :         :           :                
+GNDA_PLL10                   : G8        : gnd    :                   :         :           :                
+TEMPDIODEp                   : G9        :        :                   :         :           :                
+GND                         : G10       :        :                   :         : 4         :                
+rx_cmem_data[31]             : G11       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_par[5]               : G12       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_data[37]             : G13       : bidir  : SSTL-18 Class II  :         : 4         : Y              
+GND                         : G14       :        :                   :         : 4         :                
+VCCA_PLL5                    : G15       : power  :                   : 1.2V    :           :                
+GNDA_PLL5                    : G16       : gnd    :                   :         :           :                
+GND                          : G17       : gnd    :                   :         :           :                
+GNDA_PLL11                   : G18       : gnd    :                   :         :           :                
+GND                         : G19       :        :                   :         : 3         :                
+GND                         : G20       :        :                   :         : 3         :                
+GND                         : G21       :        :                   :         : 3         :                
+rx_cmem_bank[0]              : G22       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_cas_low              : G23       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_odt[1]               : G24       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                         : G25       :        :                   :         : 3         :                
+GNDA_PLL7                    : G26       : gnd    :                   :         :           :                
+tx_rx_spare[0]               : G27       : input  : 2.5 V             :         : 2         : Y              
+tx_rx_spare[1]               : G28       : input  : 2.5 V             :         : 2         : Y              
+tx_rx_spare[2]               : G29       : input  : 2.5 V             :         : 2         : Y              
+tx_rx_spare[3]               : G30       : input  : 2.5 V             :         : 2         : Y              
+tcp_rx_ser[9](n)             : G31       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[9]                : G32       : input  : LVDS              :         : 2         : Y              
+rx_xgmii_0_c[3]              : H1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_c[2]              : H2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_c[1]              : H3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[19]             : H4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[14]             : H5        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[15]             : H6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VCCD_PLL10                   : H7        : power  :                   : 1.2V    :           :                
+VCCA_PLL10                   : H8        : power  :                   : 1.2V    :           :                
+GND                         : H9        :        :                   :         : 4         :                
+MSEL3                        : H10       :        :                   :         : 4         :                
+GND                         : H11       :        :                   :         : 4         :                
+GND                         : H12       :        :                   :         : 4         :                
+GND                         : H13       :        :                   :         : 4         :                
+rx_cmem_cke                  : H14       : output : SSTL-18 Class II  :         : 4         : Y              
+VCCD_PLL5                    : H15       : power  :                   : 1.2V    :           :                
+GNDA_PLL5                    : H16       : gnd    :                   :         :           :                
+VCCA_PLL11                   : H17       : power  :                   : 1.2V    :           :                
+GNDA_PLL11                   : H18       : gnd    :                   :         :           :                
+~DATA0~ / RESERVED_INPUT     : H19       : input  : 1.8 V             :         : 3         : N              
+GND                         : H20       :        :                   :         : 3         :                
+rx_cmem_ras_low              : H21       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_addr[10]             : H22       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_bank[1]              : H23       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_we_low               : H24       : output : SSTL-18 Class II  :         : 3         : Y              
+VCCD_PLL7                    : H25       : power  :                   : 1.2V    :           :                
+VCCA_PLL7                    : H26       : power  :                   : 1.2V    :           :                
+GND                         : H27       :        :                   :         : 2         :                
+GND                         : H28       :        :                   :         : 2         :                
+tcp_rx_ser[8](n)             : H29       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[8]                : H30       : input  : LVDS              :         : 2         : Y              
+tcp_rx_ser[6](n)             : H31       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[6]                : H32       : input  : LVDS              :         : 2         : Y              
+rx_xgmii_0_d[6]              : J1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[7]              : J2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[8]              : J3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_c[0]              : J4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VREFB5                       : J5        : power  :                   : 0.75V   : 5         :                
+rx_xgmii_0_d[10]             : J6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : J7        :        :                   :         : 5         :                
+rx_xgmii_0_d[12]             : J8        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : J9        :        :                   :         : 5         :                
+MSEL2                        : J10       :        :                   :         : 4         :                
+GND                         : J11       :        :                   :         : 4         :                
+GND                         : J12       :        :                   :         : 4         :                
+GND                         : J13       :        :                   :         : 4         :                
+GND                         : J14       :        :                   :         : 4         :                
+rx_cmem_bank[2]              : J15       : output : SSTL-18 Class II  :         : 4         : Y              
+VCC_PLL5_OUT                 : J16       : power  :                   : 3.3V    : 9         :                
+VCC_PLL11_OUT                : J17       : power  :                   : 3.3V    : 11        :                
+VCCD_PLL11                   : J18       : power  :                   : 1.2V    :           :                
+rx_cmem_addr[5]              : J19       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                         : J20       :        :                   :         : 3         :                
+GND                         : J21       :        :                   :         : 3         :                
+rx_cmem_addr[1]              : J22       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_addr[0]              : J23       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                          : J24       : gnd    :                   :         :           :                
+CONF_DONE                    : J25       :        :                   :         : 3         :                
+GND                         : J26       :        :                   :         : 2         :                
+GND                         : J27       :        :                   :         : 2         :                
+VREFB2                       : J28       : power  :                   :         : 2         :                
+tcp_rx_ser[7](n)             : J29       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[7]                : J30       : input  : LVDS              :         : 2         : Y              
+tcp_rx_ser[4](n)             : J31       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[4]                : J32       : input  : LVDS              :         : 2         : Y              
+rx_xgmii_1_d[21]             : K1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[22]             : K2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[0]              : K3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[9]              : K4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                          : K5        : gnd    :                   :         :           :                
+rx_xgmii_0_d[2]              : K6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[11]             : K7        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[4]              : K8        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[13]             : K9        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VCCINT                       : K10       : power  :                   : 1.2V    :           :                
+GND                         : K11       :        :                   :         : 4         :                
+GND                         : K12       :        :                   :         : 4         :                
+GND                         : K13       :        :                   :         : 4         :                
+GND                         : K14       :        :                   :         : 4         :                
+GND                         : K15       :        :                   :         : 4         :                
+rx_cmem_addr[12]             : K16       : output : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_addr[11]             : K17       : output : SSTL-18 Class II  :         : 4         : Y              
+rx_cmem_addr[7]              : K18       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_addr[8]              : K19       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                         : K20       :        :                   :         : 3         :                
+GND                         : K21       :        :                   :         : 3         :                
+rx_cmem_addr[2]              : K22       : output : SSTL-18 Class II  :         : 3         : Y              
+VCCINT                       : K23       : power  :                   : 1.2V    :           :                
+GND                         : K24       :        :                   :         : 2         :                
+GND                         : K25       :        :                   :         : 2         :                
+GND                         : K26       :        :                   :         : 2         :                
+GND                         : K27       :        :                   :         : 2         :                
+GND                          : K28       : gnd    :                   :         :           :                
+tcp_rx_ser[5](n)             : K29       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[5]                : K30       : input  : LVDS              :         : 2         : Y              
+tcp_rx_ser[2](n)             : K31       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[2]                : K32       : input  : LVDS              :         : 2         : Y              
+rx_xgmii_1_d[20]             : L1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[23]             : L2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[24]             : L3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[1]              : L4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[26]             : L5        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[27]             : L6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[3]              : L7        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[29]             : L8        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_0_d[5]              : L9        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[31]             : L10       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                          : L11       : gnd    :                   :         :           :                
+GND                         : L12       :        :                   :         : 4         :                
+GND                         : L13       :        :                   :         : 4         :                
+GND                         : L14       :        :                   :         : 4         :                
+GND                         : L15       :        :                   :         : 4         :                
+GND                         : L16       :        :                   :         : 4         :                
+GND                         : L17       :        :                   :         : 4         :                
+rx_cmem_addr[9]              : L18       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_addr[6]              : L19       : output : SSTL-18 Class II  :         : 3         : Y              
+rx_cmem_addr[4]              : L20       : output : SSTL-18 Class II  :         : 3         : Y              
+GND                         : L21       :        :                   :         : 3         :                
+rx_cmem_addr[3]              : L22       : output : SSTL-18 Class II  :         : 3         : Y              
+nm_fm_ser[0](n)              : L23       : output : LVDS              :         : 2         : N              
+nm_fm_ser[0]                 : L24       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[1](n)              : L25       : output : LVDS              :         : 2         : N              
+nm_fm_ser[1]                 : L26       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[2](n)              : L27       : output : LVDS              :         : 2         : N              
+nm_fm_ser[2]                 : L28       : output : LVDS              :         : 2         : Y              
+tcp_rx_ser[3](n)             : L29       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[3]                : L30       : input  : LVDS              :         : 2         : Y              
+tcp_rx_ser[0](n)             : L31       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[0]                : L32       : input  : LVDS              :         : 2         : Y              
+rx_xgmii_1_c[3]              : M1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_c[2]              : M2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_c[1]              : M3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[25]             : M4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VCCIO5                       : M5        : power  :                   : 1.5V    : 5         :                
+rx_xgmii_1_d[14]             : M6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[28]             : M7        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[16]             : M8        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[30]             : M9        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[18]             : M10       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[19]             : M11       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                          : M12       : gnd    :                   :         :           :                
+VCCPD4                       : M13       : power  :                   : 3.3V    : 4         :                
+GND                          : M14       : gnd    :                   :         :           :                
+VCCPD4                       : M15       : power  :                   : 3.3V    : 4         :                
+VCCIO4                       : M16       : power  :                   : 1.8V    : 4         :                
+VCCIO3                       : M17       : power  :                   : 1.8V    : 3         :                
+VCCPD3                       : M18       : power  :                   : 3.3V    : 3         :                
+GND                          : M19       : gnd    :                   :         :           :                
+VCCPD3                       : M20       : power  :                   : 3.3V    : 3         :                
+VCCINT                       : M21       : power  :                   : 1.2V    :           :                
+nm_fm_ser[3](n)              : M22       : output : LVDS              :         : 2         : N              
+nm_fm_ser[3]                 : M23       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[4](n)              : M24       : output : LVDS              :         : 2         : N              
+nm_fm_ser[4]                 : M25       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[5](n)              : M26       : output : LVDS              :         : 2         : N              
+nm_fm_ser[5]                 : M27       : output : LVDS              :         : 2         : Y              
+VCCIO2                       : M28       : power  :                   : 2.5V    : 2         :                
+tcp_rx_ser[1](n)             : M29       : input  : LVDS              :         : 2         : N              
+tcp_rx_ser[1]                : M30       : input  : LVDS              :         : 2         : Y              
+GND                         : M31       :        :                   :         : 2         :                
+GND                         : M32       :        :                   :         : 2         :                
+GND                          : N1        : gnd    :                   :         :           :                
+GND                         : N2        :        :                   :         : 5         :                
+GND                         : N3        :        :                   :         : 5         :                
+rx_xgmii_1_c[0]              : N4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : N5        :        :                   :         : 5         :                
+GND                         : N6        :        :                   :         : 5         :                
+rx_xgmii_1_d[15]             : N7        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : N8        :        :                   :         : 5         :                
+rx_xgmii_1_d[17]             : N9        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : N10       :        :                   :         : 5         :                
+GND                         : N11       :        :                   :         : 5         :                
+VCCPD5                       : N12       : power  :                   : 3.3V    : 5         :                
+VCCINT                       : N13       : power  :                   : 1.2V    :           :                
+GND                          : N14       : gnd    :                   :         :           :                
+VCCINT                       : N15       : power  :                   : 1.2V    :           :                
+GND                          : N16       : gnd    :                   :         :           :                
+VCCINT                       : N17       : power  :                   : 1.2V    :           :                
+GND                          : N18       : gnd    :                   :         :           :                
+VCCINT                       : N19       : power  :                   : 1.2V    :           :                
+GND                          : N20       : gnd    :                   :         :           :                
+VCCPD2                       : N21       : power  :                   : 3.3V    : 2         :                
+nm_fm_ser[6](n)              : N22       : output : LVDS              :         : 2         : N              
+nm_fm_ser[6]                 : N23       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[7](n)              : N24       : output : LVDS              :         : 2         : N              
+nm_fm_ser[7]                 : N25       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[8](n)              : N26       : output : LVDS              :         : 2         : N              
+nm_fm_ser[8]                 : N27       : output : LVDS              :         : 2         : Y              
+GND                         : N28       :        :                   :         : 2         :                
+GND                         : N29       :        :                   :         : 2         :                
+GND                         : N30       :        :                   :         : 2         :                
+GND                         : N31       :        :                   :         : 2         :                
+GND                          : N32       : gnd    :                   :         :           :                
+rx_xgmii_1_d[6]              : P1        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[7]              : P2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VREFB5                       : P3        : power  :                   : 0.75V   : 5         :                
+GND                         : P4        :        :                   :         : 5         :                
+rx_xgmii_1_d[8]              : P5        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[9]              : P6        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[10]             : P7        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[11]             : P8        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : P9        :        :                   :         : 5         :                
+rx_xgmii_1_d[12]             : P10       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[13]             : P11       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                          : P12       : gnd    :                   :         :           :                
+GND                          : P13       : gnd    :                   :         :           :                
+VCCINT                       : P14       : power  :                   : 1.2V    :           :                
+GND                          : P15       : gnd    :                   :         :           :                
+VCCINT                       : P16       : power  :                   : 1.2V    :           :                
+GND                          : P17       : gnd    :                   :         :           :                
+VCCINT                       : P18       : power  :                   : 1.2V    :           :                
+GND                          : P19       : gnd    :                   :         :           :                
+VCCINT                       : P20       : power  :                   : 1.2V    :           :                
+GND                          : P21       : gnd    :                   :         :           :                
+nm_fm_ser[9](n)              : P22       : output : LVDS              :         : 2         : N              
+nm_fm_ser[9]                 : P23       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[10](n)             : P24       : output : LVDS              :         : 2         : N              
+nm_fm_ser[10]                : P25       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[11](n)             : P26       : output : LVDS              :         : 2         : N              
+nm_fm_ser[11]                : P27       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[12](n)             : P28       : output : LVDS              :         : 2         : N              
+nm_fm_ser[12]                : P29       : output : LVDS              :         : 2         : Y              
+VREFB2                       : P30       : power  :                   :         : 2         :                
+GND                         : P31       :        :                   :         : 2         :                
+GND                         : P32       :        :                   :         : 2         :                
+VCCIO5                       : R1        : power  :                   : 1.5V    : 5         :                
+rx_xgmii_1_d[2]              : R2        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[3]              : R3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[4]              : R4        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[5]              : R5        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : R6        :        :                   :         : 5         :                
+GND                         : R7        :        :                   :         : 5         :                
+GNDA_PLL4                    : R8        : gnd    :                   :         :           :                
+VCCA_PLL4                    : R9        : power  :                   : 1.2V    :           :                
+GND                         : R10       :        :                   :         : 5         :                
+GND                         : R11       :        :                   :         : 5         :                
+VCCPD5                       : R12       : power  :                   : 3.3V    : 5         :                
+VCCINT                       : R13       : power  :                   : 1.2V    :           :                
+GND                          : R14       : gnd    :                   :         :           :                
+VCCINT                       : R15       : power  :                   : 1.2V    :           :                
+GND                          : R16       : gnd    :                   :         :           :                
+VCCINT                       : R17       : power  :                   : 1.2V    :           :                
+GND                          : R18       : gnd    :                   :         :           :                
+VCCINT                       : R19       : power  :                   : 1.2V    :           :                
+GND                          : R20       : gnd    :                   :         :           :                
+VCCPD2                       : R21       : power  :                   : 3.3V    : 2         :                
+nm_fm_ser[13](n)             : R22       : output : LVDS              :         : 2         : N              
+nm_fm_ser[13]                : R23       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[14](n)             : R24       : output : LVDS              :         : 2         : N              
+nm_fm_ser[14]                : R25       : output : LVDS              :         : 2         : Y              
+nm_fm_ser[15](n)             : R26       : output : LVDS              :         : 2         : N              
+nm_fm_ser[15]                : R27       : output : LVDS              :         : 2         : Y              
+nm_fm_frame(n)               : R28       : output : LVDS              :         : 2         : N              
+nm_fm_frame                  : R29       : output : LVDS              :         : 2         : Y              
+nm_fm_ack_t                  : R30       : input  : 2.5 V             :         : 2         : Y              
+nm_fm_pause                  : R31       : input  : 2.5 V             :         : 2         : Y              
+VCCIO2                       : R32       : power  :                   : 2.5V    : 2         :                
+GND                         : T1        :        :                   :         : 5         :                
+GND                         : T2        :        :                   :         : 5         :                
+rx_xgmii_0_clk               : T3        : input  : 1.5-V HSTL Class I :         : 5         : Y              
+GND                         : T4        :        :                   :         : 5         :                
+GND                         : T5        :        :                   :         : 5         :                
+GND                         : T6        :        :                   :         : 5         :                
+GND                          : T7        : gnd    :                   :         :           :                
+GNDA_PLL4                    : T8        : gnd    :                   :         :           :                
+VCCD_PLL4                    : T9        : power  :                   : 1.2V    :           :                
+rx_xgmii_1_d[0]              : T10       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+rx_xgmii_1_d[1]              : T11       : input  : 1.5-V HSTL Class I :         : 5         : Y              
+VCCIO5                       : T12       : power  :                   : 1.5V    : 5         :                
+GND                          : T13       : gnd    :                   :         :           :                
+VCCINT                       : T14       : power  :                   : 1.2V    :           :                
+GND                          : T15       : gnd    :                   :         :           :                
+VCCINT                       : T16       : power  :                   : 1.2V    :           :                
+GND                          : T17       : gnd    :                   :         :           :                
+VCCINT                       : T18       : power  :                   : 1.2V    :           :                
+GND                          : T19       : gnd    :                   :         :           :                
+VCCINT                       : T20       : power  :                   : 1.2V    :           :                
+VCCIO2                       : T21       : power  :                   : 2.5V    : 2         :                
+nm_fm_ctrl(n)                : T22       : output : LVDS              :         : 2         : N              
+nm_fm_ctrl                   : T23       : output : LVDS              :         : 2         : Y              
+VCCA_PLL1                    : T24       : power  :                   : 1.2V    :           :                
+GNDA_PLL1                    : T25       : gnd    :                   :         :           :                
+GNDA_PLL1                    : T26       : gnd    :                   :         :           :                
+nm_fm_clkx4(n)               : T27       : output : LVDS              :         : 2         : N              
+nm_fm_clkx4                  : T28       : output : LVDS              :         : 2         : Y              
+GND                         : T29       :        :                   :         : 2         :                
+GND                         : T30       :        :                   :         : 2         :                
+tcp_rx_clkx4(n)              : T31       : input  : LVDS              :         : 2         : N              
+tcp_rx_clkx4                 : T32       : input  : LVDS              :         : 2         : Y              
+GND                         : U1        :        :                   :         : 6         :                
+GND                         : U2        :        :                   :         : 6         :                
+GND                         : U3        :        :                   :         : 6         :                
+GND                         : U4        :        :                   :         : 6         :                
+GND                         : U5        :        :                   :         : 6         :                
+GND                         : U6        :        :                   :         : 6         :                
+VCCD_PLL3                    : U7        : power  :                   : 1.2V    :           :                
+GNDA_PLL3                    : U8        : gnd    :                   :         :           :                
+VCCA_PLL3                    : U9        : power  :                   : 1.2V    :           :                
+GND                         : U10       :        :                   :         : 6         :                
+GND                         : U11       :        :                   :         : 6         :                
+VCCIO6                       : U12       : power  :                   : 2.5V    : 6         :                
+VCCINT                       : U13       : power  :                   : 1.2V    :           :                
+GND                          : U14       : gnd    :                   :         :           :                
+VCCINT                       : U15       : power  :                   : 1.2V    :           :                
+GND                          : U16       : gnd    :                   :         :           :                
+VCCINT                       : U17       : power  :                   : 1.2V    :           :                
+GND                          : U18       : gnd    :                   :         :           :                
+VCCINT                       : U19       : power  :                   : 1.2V    :           :                
+GND                          : U20       : gnd    :                   :         :           :                
+VCCIO1                       : U21       : power  :                   : 2.5V    : 1         :                
+rx_tcp_ser[8](n)             : U22       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[8]                : U23       : output : LVDS              :         : 1         : Y              
+VCCD_PLL1                    : U24       : power  :                   : 1.2V    :           :                
+GNDA_PLL2                    : U25       : gnd    :                   :         :           :                
+GNDA_PLL2                    : U26       : gnd    :                   :         :           :                
+rx_tcp_ser[9](n)             : U27       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[9]                : U28       : output : LVDS              :         : 1         : Y              
+GND                         : U29       :        :                   :         : 1         :                
+lvds_txclk_in                : U30       : input  : 2.5 V             :         : 1         : Y              
+GND                         : U31       :        :                   :         : 1         :                
+GND                         : U32       :        :                   :         : 1         :                
+VCCIO6                       : V1        : power  :                   : 2.5V    : 6         :                
+fe_active_low[0]             : V2        : output : 2.5 V             :         : 6         : Y              
+fe_active_low[1]             : V3        : output : 2.5 V             :         : 6         : Y              
+fe_link_low[0]               : V4        : output : 2.5 V             :         : 6         : Y              
+fe_link_low[1]               : V5        : output : 2.5 V             :         : 6         : Y              
+local_fault[0]               : V6        : output : 2.5 V             :         : 6         : Y              
+local_fault[1]               : V7        : output : 2.5 V             :         : 6         : Y              
+GNDA_PLL3                    : V8        : gnd    :                   :         :           :                
+mod_nr[0]                    : V9        : input  : 2.5 V             :         : 6         : Y              
+mod_nr[1]                    : V10       : input  : 2.5 V             :         : 6         : Y              
+GND                          : V11       : gnd    :                   :         :           :                
+VCCPD6                       : V12       : power  :                   : 3.3V    : 6         :                
+GND                          : V13       : gnd    :                   :         :           :                
+VCCINT                       : V14       : power  :                   : 1.2V    :           :                
+GND                          : V15       : gnd    :                   :         :           :                
+VCCINT                       : V16       : power  :                   : 1.2V    :           :                
+GND                          : V17       : gnd    :                   :         :           :                
+VCCINT                       : V18       : power  :                   : 1.2V    :           :                
+GND                          : V19       : gnd    :                   :         :           :                
+VCCINT                       : V20       : power  :                   : 1.2V    :           :                
+VCCPD1                       : V21       : power  :                   : 3.3V    : 1         :                
+GND                          : V22       : gnd    :                   :         :           :                
+rx_tcp_ser[6](n)             : V23       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[6]                : V24       : output : LVDS              :         : 1         : Y              
+VCCD_PLL2                    : V25       : power  :                   : 1.2V    :           :                
+VCCA_PLL2                    : V26       : power  :                   : 1.2V    :           :                
+GND                          : V27       : gnd    :                   :         :           :                
+rx_tcp_ser[7](n)             : V28       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[7]                : V29       : output : LVDS              :         : 1         : Y              
+GND                         : V30       :        :                   :         : 1         :                
+GND                         : V31       :        :                   :         : 1         :                
+VCCIO1                       : V32       : power  :                   : 2.5V    : 1         :                
+remote_fault[0]              : W1        : output : 2.5 V             :         : 6         : Y              
+remote_fault[1]              : W2        : output : 2.5 V             :         : 6         : Y              
+VREFB6                       : W3        : power  :                   :         : 6         :                
+reset                        : W4        : input  : 2.5 V             :         : 6         : Y              
+rx_debug[0]                  : W5        : bidir  : 2.5 V             :         : 6         : Y              
+rx_debug[1]                  : W6        : bidir  : 2.5 V             :         : 6         : Y              
+rx_debug[2]                  : W7        : bidir  : 2.5 V             :         : 6         : Y              
+rx_debug[3]                  : W8        : bidir  : 2.5 V             :         : 6         : Y              
+rx_debug[4]                  : W9        : bidir  : 2.5 V             :         : 6         : Y              
+rx_debug[5]                  : W10       : bidir  : 2.5 V             :         : 6         : Y              
+rx_debug[6]                  : W11       : bidir  : 2.5 V             :         : 6         : Y              
+GND                          : W12       : gnd    :                   :         :           :                
+VCCINT                       : W13       : power  :                   : 1.2V    :           :                
+GND                          : W14       : gnd    :                   :         :           :                
+VCCINT                       : W15       : power  :                   : 1.2V    :           :                
+GND                          : W16       : gnd    :                   :         :           :                
+VCCINT                       : W17       : power  :                   : 1.2V    :           :                
+GND                          : W18       : gnd    :                   :         :           :                
+VCCINT                       : W19       : power  :                   : 1.2V    :           :                
+GND                          : W20       : gnd    :                   :         :           :                
+VCCINT                       : W21       : power  :                   : 1.2V    :           :                
+rx_tcp_ser[0](n)             : W22       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[0]                : W23       : output : LVDS              :         : 1         : Y              
+rx_tcp_ser[3](n)             : W24       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[3]                : W25       : output : LVDS              :         : 1         : Y              
+rx_tcp_ser[4](n)             : W26       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[4]                : W27       : output : LVDS              :         : 1         : Y              
+rx_tcp_ser[5](n)             : W28       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[5]                : W29       : output : LVDS              :         : 1         : Y              
+VREFB1                       : W30       : power  :                   :         : 1         :                
+GND                         : W31       :        :                   :         : 1         :                
+GND                         : W32       :        :                   :         : 1         :                
+GND                          : Y1        : gnd    :                   :         :           :                
+GND                         : Y2        :        :                   :         : 6         :                
+GND                         : Y3        :        :                   :         : 6         :                
+GND                         : Y4        :        :                   :         : 6         :                
+rxloss_port[0]               : Y5        : input  : 2.5 V             :         : 6         : Y              
+rxloss_port[1]               : Y6        : input  : 2.5 V             :         : 6         : Y              
+xfp_int_low[1]               : Y7        : input  : LVTTL             :         : 6         : Y              
+xfp_int_low[0]               : Y8        : input  : LVTTL             :         : 6         : Y              
+rx_red_led_low               : Y9        : output : 2.5 V             :         : 6         : Y              
+rx_green_led_low             : Y10       : output : 2.5 V             :         : 6         : Y              
+rx_debug[7]                  : Y11       : bidir  : 2.5 V             :         : 6         : Y              
+VCCPD6                       : Y12       : power  :                   : 3.3V    : 6         :                
+GND                          : Y13       : gnd    :                   :         :           :                
+VCCINT                       : Y14       : power  :                   : 1.2V    :           :                
+GND                          : Y15       : gnd    :                   :         :           :                
+VCCINT                       : Y16       : power  :                   : 1.2V    :           :                
+GND                          : Y17       : gnd    :                   :         :           :                
+VCCINT                       : Y18       : power  :                   : 1.2V    :           :                
+GND                          : Y19       : gnd    :                   :         :           :                
+VCCINT                       : Y20       : power  :                   : 1.2V    :           :                
+VCCPD1                       : Y21       : power  :                   : 3.3V    : 1         :                
+GND                         : Y22       :        :                   :         : 1         :                
+GND                         : Y23       :        :                   :         : 1         :                
+rx_tcp_ser[1](n)             : Y24       : output : LVDS              :         : 1         : N              
+rx_tcp_ser[1]                : Y25       : output : LVDS              :         : 1         : Y              
+rx_tcp_clkx4(n)              : Y26       : output : LVDS              :         : 1         : N              
+rx_tcp_clkx4                 : Y27       : output : LVDS              :         : 1         : Y              
+GND                         : Y28       :        :                   :         : 1         :                
+GND                         : Y29       :        :                   :         : 1         :                
+GND                         : Y30       :        :                   :         : 1         :                
+GND                         : Y31       :        :                   :         : 1         :                
+GND                          : Y32       : gnd    :                   :         :           :                

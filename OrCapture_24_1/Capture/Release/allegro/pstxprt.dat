@@ -1,0 +1,1036 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Oct-16-2023 at 11:14:08 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RELEASE';
+ POST_TIME='Sep 29 2023 23:54:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPNP-0_1UF':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I279710@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i279710@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i279710@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,620)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14841@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14841@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14841@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,220)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15129@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15129@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15129@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,250)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15137@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15137@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15137@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,250)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14829@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14829@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14829@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,250)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14837@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14837@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14837@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,250)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I206127@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i206127@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i206127@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,610)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I206131@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i206131@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i206131@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,610)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I206132@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i206132@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i206132@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,610)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I206133@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i206133@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i206133@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,610)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I207196@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i207196@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i207196@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,610)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPNP-0_1UF':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I279713@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i279713@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i279713@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,620)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I207195@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i207195@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i207195@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,610)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I207194@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i207194@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i207194@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,610)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPNP-0_1UF':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I207193@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i207193@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i207193@discrete.\cap np.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,610)',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_01UF':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00068@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00068@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00068@discrete.\cap.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,220)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_01UF':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00071@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00071@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00071@discrete.\cap.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,300)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPNP-0_1UF':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I279710@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i279710@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i279710@discrete.\cap np.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,410)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_01UF':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00068@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00068@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00068@discrete.\cap.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,220)',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_01UF':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00071@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00071@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00071@discrete.\cap.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,300)',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPNP-0_1UF':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I279710@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i279710@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i279710@discrete.\cap np.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,410)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPNP-0_1UF':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I279714@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i279714@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i279714@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,620)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPNP-0_1UF':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I279715@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i279715@discrete.\cap np.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i279715@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,620)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_47PF':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I630341@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i630341@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i630341@discrete.\cap.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,380)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_47PF':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I14829@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i14829@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i14829@discrete.\cap.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,490)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15133@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15133@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15133@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,220)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15141@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15141@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15141@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,220)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_3300':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14833@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14833@discrete.\cap.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14833@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,220)',
+ SECTION='';
+
+PART_NAME
+ D1 'PHOTO_DIODE':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I393581@DISCRETE.PHOTODIODE.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i393581@discrete.\photodiode.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i393581@discrete.\photodiode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,90)',
+ SECTION='';
+
+PART_NAME
+ D2 'PHOTO_DIODE':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I393579@DISCRETE.PHOTODIODE.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i393579@discrete.\photodiode.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i393579@discrete.\photodiode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,90)',
+ SECTION='';
+
+PART_NAME
+ D3 'PHOTO_DIODE':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I393583@DISCRETE.PHOTODIODE.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i393583@discrete.\photodiode.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i393583@discrete.\photodiode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,90)',
+ SECTION='';
+
+PART_NAME
+ D4 'PHOTO_DIODE':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I393585@DISCRETE.PHOTODIODE.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i393585@discrete.\photodiode.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i393585@discrete.\photodiode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,90)',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN64':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I340095@CLASS_LIB.CON64.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i340095@class_lib.\con64.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i340095@class_lib.\con64.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,30)',
+ SECTION='';
+
+PART_NAME
+ J2 'BNC_1P':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I678828@CLASS_LIB.BNC.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i678828@class_lib.\bnc.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i678828@class_lib.\bnc.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,340)',
+ SECTION='';
+
+PART_NAME
+ J3 'BNC_1P':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I679062@CLASS_LIB.BNC.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i679062@class_lib.\bnc.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i679062@class_lib.\bnc.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,450)',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I509338@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i509338@discrete.\inductor.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i509338@discrete.\inductor.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,350)',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I509150@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i509150@discrete.\inductor.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i509150@discrete.\inductor.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,460)',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00070@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00070@discrete.\inductor.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00070@discrete.\inductor.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,100)',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00069@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00069@discrete.\inductor.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00069@discrete.\inductor.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,180)',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00070@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00070@discrete.\inductor.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00070@discrete.\inductor.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,100)',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00069@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00069@discrete.\inductor.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00069@discrete.\inductor.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,180)',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_150':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I396787@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i396787@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i396787@discrete.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,180)',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15127@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15127@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15127@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,170)',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15135@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15135@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15135@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,170)',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14827@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14827@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14827@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,170)',
+ SECTION='';
+
+PART_NAME
+ R13 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14835@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14835@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14835@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,170)',
+ SECTION='';
+
+PART_NAME
+ R14 'RES_1-4W':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I22889@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i22889@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i22889@discrete.\r.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,490)',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_100':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00066@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00066@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00066@discrete.\r.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,290)',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_100':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00065@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00065@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00065@discrete.\r.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,260)',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_100':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00065@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00065@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00065@discrete.\r.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,260)',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_100':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00066@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00066@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00066@discrete.\r.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,290)',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_150':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I396791@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i396791@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i396791@discrete.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,180)',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_150':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I396789@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i396789@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i396789@discrete.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,180)',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_150':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I396793@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i396793@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i396793@discrete.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,180)',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_2K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I23877@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i23877@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i23877@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,510)',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15131@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15131@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15131@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,140)',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I15139@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i15139@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i15139@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,140)',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14831@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14831@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14831@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,140)',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_10K':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I14839@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i14839@discrete.\r.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i14839@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,140)',
+ SECTION='';
+
+PART_NAME
+ U1 'FCT16245':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I92013@TRAINING-LIB.FCT16245.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i92013@\training-lib\.\fct16245.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i92013@\training-lib\.\fct16245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,100)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I92177@TRAINING-LIB.FCT16245.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i92177@\training-lib\.\fct16245.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i92177@\training-lib\.\fct16245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,100)',
+ SECTION='B';
+
+PART_NAME
+ U10 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I209557@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i209557@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i209557@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,60)',
+ SECTION='';
+
+PART_NAME
+ U11 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I213372@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i213372@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i213372@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,60)',
+ SECTION='';
+
+PART_NAME
+ U12 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I214706@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i214706@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i214706@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,60)',
+ SECTION='';
+
+PART_NAME
+ U13 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I216194@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i216194@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i216194@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,60)',
+ SECTION='';
+
+PART_NAME
+ U14 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I209555@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i209555@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i209555@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,280)',
+ SECTION='';
+
+PART_NAME
+ U15 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I213370@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i213370@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i213370@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,280)',
+ SECTION='';
+
+PART_NAME
+ U16 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I214708@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i214708@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i214708@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,280)',
+ SECTION='';
+
+PART_NAME
+ U17 'TC55B4257':
+ ROOM='MEM';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):RAM@RELEASE.HSRAM(SCH_1):I216192@CLASS_LIB.TC55B4257.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):ram@release.hsram(sch_1):i216192@class_lib.\tc55b4257.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_ram@release.hsram(sch_1):page6_i216192@class_lib.\tc55b4257.normal\(chips)',
+ ROOM='MEM',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,280)',
+ SECTION='';
+
+PART_NAME
+ U18 'TLC5602A':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00072@CLASS_LIB.TLC5602A.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00072@class_lib.\tlc5602a.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00072@class_lib.\tlc5602a.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,300)',
+ SECTION='';
+
+PART_NAME
+ U19 'DG419AK':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I00064@CLASS_LIB.DG419AK.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i00064@class_lib.\dg419ak.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i00064@class_lib.\dg419ak.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,330)',
+ SECTION='';
+
+PART_NAME
+ U2 '20L10':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I89550@TRAINING-LIB.20L10.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i89550@\training-lib\.\20l10.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i89550@\training-lib\.\20l10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,150)',
+ SECTION='';
+
+PART_NAME
+ U20 'TLE2037A':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP@RELEASE.DAAMP CIRCUIT(SCH_1):I04456@CLASS_LIB.TLE2037A.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp@release.\daamp circuit\(sch_1):i04456@class_lib.\tle2037a.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp@release.\daamp circuit\(sch_1):page3_i04456@class_lib.\tle2037a.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,310)',
+ SECTION='';
+
+PART_NAME
+ U21 'TLC5602A':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00072@CLASS_LIB.TLC5602A.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00072@class_lib.\tlc5602a.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00072@class_lib.\tlc5602a.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,300)',
+ SECTION='';
+
+PART_NAME
+ U22 'TLE2037A':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I04456@CLASS_LIB.TLE2037A.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i04456@class_lib.\tle2037a.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i04456@class_lib.\tle2037a.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,310)',
+ SECTION='';
+
+PART_NAME
+ U23 'DG419AK':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):DAAMP0@RELEASE.DAAMP CIRCUIT(SCH_1):I00064@CLASS_LIB.DG419AK.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):daamp0@release.\daamp circuit\(sch_1):i00064@class_lib.\dg419ak.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_daamp0@release.\daamp circuit\(sch_1):page4_i00064@class_lib.\dg419ak.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,330)',
+ SECTION='';
+
+PART_NAME
+ U3 'FCT16245':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I92054@TRAINING-LIB.FCT16245.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i92054@\training-lib\.\fct16245.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i92054@\training-lib\.\fct16245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,250)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I92136@TRAINING-LIB.FCT16245.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i92136@\training-lib\.\fct16245.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i92136@\training-lib\.\fct16245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,250)',
+ SECTION='B';
+
+PART_NAME
+ U4 'FCT16245':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I91972@TRAINING-LIB.FCT16245.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i91972@\training-lib\.\fct16245.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i91972@\training-lib\.\fct16245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,400)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I277489@TRAINING-LIB.FCT16245.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i277489@\training-lib\.\fct16245.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page1_i277489@\training-lib\.\fct16245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,400)',
+ SECTION='B';
+
+PART_NAME
+ U5 'EPF8282A_LCC':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I667135@CLASS_LIB.EPF8282A/LCC.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i667135@class_lib.\epf8282a/lcc.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i667135@class_lib.\epf8282a/lcc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,60)',
+ SECTION='';
+
+PART_NAME
+ U6 '74ACT574':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I19689@BUSDRIVERTRANSCEIVER.74ACT574.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i19689@busdrivertransceiver.\74act574.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i19689@busdrivertransceiver.\74act574.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,220)',
+ SECTION='';
+
+PART_NAME
+ U7 'EPC1064':;
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):I123923@CLASS_LIB.EPC1064.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):i123923@class_lib.\epc1064.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_i123923@class_lib.\epc1064.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,400)',
+ SECTION='';
+
+PART_NAME
+ U8 '74ACT574':
+ ROOM='CHAN1';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I08608@BUSDRIVERTRANSCEIVER.74ACT574.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i08608@busdrivertransceiver.\74act574.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i08608@busdrivertransceiver.\74act574.normal\(chips)',
+ ROOM='CHAN1',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,150)',
+ SECTION='';
+
+PART_NAME
+ U9 '74ACT574':
+ ROOM='CHAN2';
+
+SECTION_NUMBER 1
+ '@RELEASE.RELEASE ROOT SCHEMATIC(SCH_1):DATA@RELEASE.DATA SCHEMATIC(SCH_1):I08610@BUSDRIVERTRANSCEIVER.74ACT574.NORMAL(CHIPS)':
+ C_PATH='@release.\release root schematic\(sch_1):data@release.\data schematic\(sch_1):i08610@busdrivertransceiver.\74act574.normal\(chips)',
+ P_PATH='@release.\release root schematic\(sch_1):page2_data@release.\data schematic\(sch_1):page5_i08610@busdrivertransceiver.\74act574.normal\(chips)',
+ ROOM='CHAN2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,350)',
+ SECTION='';
+
+END.

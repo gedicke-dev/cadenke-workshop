@@ -1,0 +1,13 @@
+{ Using PSTWRITER 23.1.0 d001Oct-16-2023 at 11:14:07 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.16" ignored for U5: Release Root Schematic, Page2 (2.00, 0.60). Connecting pin to net "AEN".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\RELEASE\allegro\pstchip.dat
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\RELEASE\allegro\pstchip.dat
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\RELEASE\allegro\pstxprt.dat
+
+Loading... C:\USER1\ORCAD\23.1-2023\LAB_FINAL\CAPTURE\RELEASE\allegro\pstxnet.dat
+packaging the design view...

@@ -1,0 +1,17 @@
+OrCAD X Capture
+Release SPB24.1 Windows
+
+DATE		BY		CHANGES
+____________________________________________________
+3/2013	bimai		Initial course release
+3/2014	bimai		QIR4 Release
+7/2015	bimai		SPB16.6-2015 course release
+6/2016	bimai		SPB17.2-2016 release
+8/2016	bimai		minor change to datafiles/nets.upd file
+6/2018	bimai		QIR6 release.
+4/2020	bimai		17.4-2019 release
+4/2021	bimai		17.4-2019QIR2 release
+5/2022	asadm		17.4-2019QIR4 release
+11/2022	asadm		22.1-2022 release
+11/2023	asadm		23.1-2023 release - Renamed the course from Allegro Design Entry Using OrCAD Capture to OrCAD X Capture 
+10/2024	asadm		24.1 release and updated PCB lib

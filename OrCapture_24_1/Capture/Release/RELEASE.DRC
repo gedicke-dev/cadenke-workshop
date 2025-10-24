@@ -1,0 +1,149 @@
+Date and Time : 10/04/11 18:29:22
+
+--------------------------------------------------
+Checking Schematic:  Release Root Schematic
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Data Schematic Data Schematic
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: High Speed Ram HSRAM
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Data Schematic/DAAMP2 DAAMP CIRCUIT
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Data Schematic/DAAMP1 DAAMP CIRCUIT
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic:  Release Root Schematic
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: Data Schematic Data Schematic
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: High Speed Ram HSRAM
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: Data Schematic/DAAMP2 DAAMP CIRCUIT
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: Data Schematic/DAAMP1 DAAMP CIRCUIT
+--------------------------------------------------
+
+Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: RELEASE 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+
+Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+Check High Speed Properties Syntax
+
+Check Power Ground Mismatch
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U?,V-  V-  V12N
+                    DAAMP CIRCUIT, Page1  (5.10, 3.70) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U?,V-  V-  V12N
+                    DAAMP CIRCUIT, Page1  (5.10, 3.70) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J3,GND4  GND4  GND_EARTH
+                    Release Root Schematic, Page2  (8.70, 4.40) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J2,GND4  GND4  GND_EARTH
+                    Release Root Schematic, Page2  (8.70, 3.30) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J2,GND3  GND3  GND_EARTH
+                    Release Root Schematic, Page2  (8.90, 3.30) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J2,GND5  GND5  GND_EARTH
+                    Release Root Schematic, Page2  (8.70, 3.90) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J3,GND3  GND3  GND_EARTH
+                    Release Root Schematic, Page2  (8.90, 4.40) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J3,GND2  GND2  GND_EARTH
+                    Release Root Schematic, Page2  (8.90, 5.00) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J3,GND5  GND5  GND_EARTH
+                    Release Root Schematic, Page2  (8.70, 5.00) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? J2,GND2  GND2  GND_EARTH
+                    Release Root Schematic, Page2  (8.90, 3.90) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U?,V+  V+  V+12
+                    DAAMP CIRCUIT, Page1  (5.10, 3.60) 
+WARNING(ORCAP-1589): Net has two or more aliases - possible short? U?,V+  V+  V+12
+                    DAAMP CIRCUIT, Page1  (5.10, 3.60) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

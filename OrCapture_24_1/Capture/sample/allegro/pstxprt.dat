@@ -1,0 +1,3609 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Oct-16-2023 at 11:27:14 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SAMPLE';
+ POST_TIME='Sep 29 2023 23:54:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'SMALL CAP_SMC_0402_10PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883897@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883897\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883897\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,870)',
+ SECTION='';
+
+PART_NAME
+ C10 'CP_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883703@SAMPLE.CP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883703\@sample.\cp.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883703\@sample.\cp.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,810)',
+ SECTION='';
+
+PART_NAME
+ C100 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922583@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922583\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922583\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,460)',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922582@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922582\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922582\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,460)',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922581@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922581\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922581\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,460)',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922580@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922580\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922580\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,460)',
+ SECTION='';
+
+PART_NAME
+ C104 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922579@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922579\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922579\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,460)',
+ SECTION='';
+
+PART_NAME
+ C105 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922559@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922559\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922559\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,590)',
+ SECTION='';
+
+PART_NAME
+ C106 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922578@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922578\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922578\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,590)',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922577@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922577\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922577\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,590)',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922576@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922576\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922576\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,590)',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922575@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922575\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922575\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,590)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883706@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883706\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883706\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,840)',
+ SECTION='';
+
+PART_NAME
+ C110 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922574@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922574\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922574\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,590)',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922573@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922573\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922573\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,590)',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922572@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922572\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922572\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,590)',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922571@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922571\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922571\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,590)',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922570@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922570\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922570\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,590)',
+ SECTION='';
+
+PART_NAME
+ C115 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922569@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922569\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922569\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,590)',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922568@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922568\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922568\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,590)',
+ SECTION='';
+
+PART_NAME
+ C117 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922567@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922567\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922567\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,590)',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922553@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922553\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922553\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,720)',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922552@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922552\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922552\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,720)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR NON-POL_SMC_0805_150PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883732@SAMPLE.CAPACITOR NON-POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883732\@sample.\capacitor non-pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883732\@sample.\capacitor non-pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,850)',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922551@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922551\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922551\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,720)',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922550@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922550\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922550\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,720)',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922549@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922549\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922549\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,720)',
+ SECTION='';
+
+PART_NAME
+ C123 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922548@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922548\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922548\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,720)',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922547@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922547\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922547\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,720)',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922546@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922546\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922546\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,720)',
+ SECTION='';
+
+PART_NAME
+ C126 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922545@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922545\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922545\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,720)',
+ SECTION='';
+
+PART_NAME
+ C127 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922544@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922544\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922544\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,720)',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922543@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922543\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922543\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,720)',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922564@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922564\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922564\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,840)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR NON-POL_SMC_0805_390PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883729@SAMPLE.CAPACITOR NON-POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883729\@sample.\capacitor non-pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883729\@sample.\capacitor non-pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,850)',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922563@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922563\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922563\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,840)',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922539@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922539\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922539\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,840)',
+ SECTION='';
+
+PART_NAME
+ C132 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922538@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922538\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922538\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,840)',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922566@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922566\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922566\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,840)',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922565@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922565\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922565\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,840)',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922542@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922542\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922542\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,840)',
+ SECTION='';
+
+PART_NAME
+ C136 'CAP POL_CP2412_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922541@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922541\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922541\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,840)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_SMC_0805_820PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I39917@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i39917@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page2_i39917@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,850)',
+ SECTION='';
+
+PART_NAME
+ C15 'CP_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883702@SAMPLE.CP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883702\@sample.\cp.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883702\@sample.\cp.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,980)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883705@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883705\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883705\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,1010)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR NON-POL_SMC_0805_150PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I37351@SAMPLE.CAPACITOR NON-POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i37351@sample.\capacitor non-pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page2_i37351@sample.\capacitor non-pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,1020)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR NON-POL_SMC_0805_390PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I35823@SAMPLE.CAPACITOR NON-POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i35823@sample.\capacitor non-pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page2_i35823@sample.\capacitor non-pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,1020)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_SMC_0805_820PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I38869@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i38869@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page2_i38869@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,1020)',
+ SECTION='';
+
+PART_NAME
+ C2 'SMALL CAP_SMC_0402_10PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883896@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883896\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883896\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,870)',
+ SECTION='';
+
+PART_NAME
+ C20 'SMALL CAP_SMR_0402_10PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883913@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883913\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883913\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,900)',
+ SECTION='';
+
+PART_NAME
+ C21 'SMALL CAP_SMR_0402_10PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883911@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883911\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883911\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,900)',
+ SECTION='';
+
+PART_NAME
+ C22 'SMALL CAP_SMR_0402_10PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883910@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883910\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883910\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,900)',
+ SECTION='';
+
+PART_NAME
+ C23 'SMALL CAP_SMR_0402_10PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883912@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883912\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883912\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,900)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I41611@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i41611@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page4_i41611@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1590,980)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I41155@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i41155@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page4_i41155@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,1030)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I41193@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i41193@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page4_i41193@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,1030)',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I41232@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i41232@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page4_i41232@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,1030)',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I41568@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i41568@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page4_i41568@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1590,1030)',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411931@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411931\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411931\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,510)',
+ SECTION='';
+
+PART_NAME
+ C3 'SMALL CAP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883785@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883785\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883785\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,130)',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938680@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938680\@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938680\@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,320)',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938681@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938681\@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938681\@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,390)',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP POL_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938691@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938691\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938691\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,910)',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP POL_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938690@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938690\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938690\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,910)',
+ SECTION='';
+
+PART_NAME
+ C34 'SMALL CAP_SMC_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938692@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938692\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938692\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,930)',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP POL_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938688@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938688\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938688\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,970)',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP POL_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938689@DISCRETE.CAP POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938689\@discrete.\cap pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938689\@discrete.\cap pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,970)',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922643@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922643\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922643\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,70)',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922642@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922642\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922642\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,70)',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922641@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922641\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922641\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,70)',
+ SECTION='';
+
+PART_NAME
+ C4 'SMALL CAP_SMC_0805_22PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883784@SAMPLE.SMALL CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883784\@sample.\small cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883784\@sample.\small cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,170)',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922640@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922640\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922640\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,70)',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922639@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922639\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922639\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,70)',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922638@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922638\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922638\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,70)',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922637@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922637\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922637\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,70)',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922636@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922636\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922636\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,70)',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922635@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922635\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922635\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,70)',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922634@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922634\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922634\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,70)',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922633@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922633\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922633\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,70)',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922632@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922632\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922632\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,70)',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922631@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922631\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922631\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,70)',
+ SECTION='';
+
+PART_NAME
+ C5 'CP_SMC_0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883704@SAMPLE.CP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883704\@sample.\cp.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883704\@sample.\cp.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,650)',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922630@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922630\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922630\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,70)',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922629@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922629\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922629\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,70)',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922628@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922628\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922628\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,70)',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922627@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922627\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922627\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,70)',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922562@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922562\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922562\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,200)',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922626@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922626\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922626\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,200)',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922625@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922625\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922625\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,200)',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922624@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922624\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922624\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,200)',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922623@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922623\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922623\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,200)',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922622@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922622\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922622\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,200)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_SMC_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883707@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883707\@discrete.\cap.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883707\@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,680)',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922621@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922621\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922621\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,200)',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922620@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922620\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922620\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,200)',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922619@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922619\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922619\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,200)',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922618@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922618\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922618\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,200)',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922617@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922617\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922617\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,200)',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922616@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922616\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922616\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,200)',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922615@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922615\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922615\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,200)',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922614@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922614\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922614\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,200)',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922613@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922613\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922613\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,200)',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922612@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922612\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922612\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,200)',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CYL_D200_LS100_031_150PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883744@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883744\@discrete.\c.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883744\@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,690)',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922611@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922611\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922611\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,200)',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922561@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922561\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922561\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,330)',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922610@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922610\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922610\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,330)',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922609@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922609\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922609\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,330)',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922608@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922608\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922608\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,330)',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922607@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922607\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922607\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,330)',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922606@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922606\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922606\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,330)',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922605@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922605\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922605\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,330)',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922604@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922604\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922604\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,330)',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922603@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922603\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922603\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,330)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_SMC_0805_390PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I35720@SAMPLE.CAPACITOR NON-POL.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i35720@sample.\capacitor non-pol.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page2_i35720@sample.\capacitor non-pol.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,690)',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922602@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922602\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922602\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,330)',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922601@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922601\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922601\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,330)',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922600@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922600\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922600\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,330)',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922599@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922599\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922599\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,330)',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922598@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922598\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922598\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,330)',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922597@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922597\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922597\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,330)',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922596@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922596\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922596\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,330)',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922595@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922595\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922595\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,330)',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922560@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922560\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922560\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,460)',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922594@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922594\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922594\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,460)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_SMC_0805_820PF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I40020@DISCRETE.CAP NP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):i40020@discrete.\cap np.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):page2_i40020@discrete.\cap np.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,690)',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922593@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922593\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922593\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,460)',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922592@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922592\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922592\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,460)',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922591@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922591\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922591\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,460)',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922590@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922590\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922590\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,460)',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922589@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922589\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922589\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,460)',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922588@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922588\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922588\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,460)',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922587@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922587\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922587\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,460)',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922586@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922586\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922586\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,460)',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922585@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922585\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922585\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,460)',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP_SMC_1206_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-953922584@DISCRETE.CAP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-953922584\@discrete.\cap.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page7_i-953922584\@discrete.\cap.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,460)',
+ SECTION='';
+
+PART_NAME
+ D1 'LED1_DAX2_450X090_031_RA-LED':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883893@SAMPLE.LED1.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883893\@sample.\led1.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883893\@sample.\led1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1540,850)',
+ SECTION='';
+
+PART_NAME
+ D2 'LED1_DAX2_450X090_031_RA-LED':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883909@SAMPLE.LED1.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883909\@sample.\led1.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883909\@sample.\led1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,280)',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_T0220AC_MV209':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411918@SAMPLE.DIODE.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411918\@sample.\diode.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411918\@sample.\diode.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,550)',
+ SECTION='';
+
+PART_NAME
+ E1 'B2S_JUMPER5_BERG5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761546@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761546\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761546\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,820)',
+ SECTION='';
+
+PART_NAME
+ E2 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761533@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761533\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761533\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,970)',
+ SECTION='';
+
+PART_NAME
+ E3 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761532@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761532\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761532\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,970)',
+ SECTION='';
+
+PART_NAME
+ E4 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761531@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761531\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761531\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,970)',
+ SECTION='';
+
+PART_NAME
+ E5 'B2S_JUMPER_JUMPER2000_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761530@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761530\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761530\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,970)',
+ SECTION='';
+
+PART_NAME
+ E6 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411932@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411932\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411932\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1670,60)',
+ SECTION='';
+
+PART_NAME
+ J1 'BNC_BNC_BNC':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883713@SAMPLE.BNC.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883713\@sample.\bnc.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883713\@sample.\bnc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,650)',
+ SECTION='';
+
+PART_NAME
+ J2 'BNC_BNC_BNC':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883712@SAMPLE.BNC.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883712\@sample.\bnc.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883712\@sample.\bnc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,810)',
+ SECTION='';
+
+PART_NAME
+ J3 'BNC_BNC_BNC':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883711@SAMPLE.BNC.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883711\@sample.\bnc.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883711\@sample.\bnc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,980)',
+ SECTION='';
+
+PART_NAME
+ JP1 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761545@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761545\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761545\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1840,820)',
+ SECTION='';
+
+PART_NAME
+ JP2 'HEADER 5X2_LATCON100_VH_TM2OE_W350_10_HEADER5X2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761540@SAMPLE.HEADER 5X2.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761540\@sample.\header 5x2.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761540\@sample.\header 5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1580,840)',
+ SECTION='';
+
+PART_NAME
+ JP3 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761544@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761544\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761544\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1840,870)',
+ SECTION='';
+
+PART_NAME
+ JP4 'B2S_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411933@SAMPLE.B2S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411933\@sample.\b2s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411933\@sample.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1310,360)',
+ SECTION='';
+
+PART_NAME
+ JP5 'HEADER 25X2_LATCON100_VH_TM2OE_W350_50_HEADER50':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411917@SAMPLE.HEADER 25X2.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411917\@sample.\header 25x2.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411917\@sample.\header 25x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,610)',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_AX_300X100_031_12.8M':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883743@SAMPLE.INDUCTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883743\@sample.\inductor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883743\@sample.\inductor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,650)',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_AX_300X100_031_282U':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883742@SAMPLE.INDUCTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883742\@sample.\inductor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883742\@sample.\inductor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1150,650)',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_AX_300X100_031_12.8M':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883731@SAMPLE.INDUCTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883731\@sample.\inductor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883731\@sample.\inductor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,810)',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_AX_300X100_031_282U':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883730@SAMPLE.INDUCTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883730\@sample.\inductor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883730\@sample.\inductor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1150,810)',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_AX_300X100_031_12.8M':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883719@SAMPLE.INDUCTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883719\@sample.\inductor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883719\@sample.\inductor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,980)',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_AX_300X100_031_282U':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883718@SAMPLE.INDUCTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883718\@sample.\inductor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883718\@sample.\inductor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1150,980)',
+ SECTION='';
+
+PART_NAME
+ P1 'HEADER 6X2_BLKCON100_VH_TM1SQS_W10012_HEADER12':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883883@SAMPLE.HEADER 6X2.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883883\@sample.\header 6x2.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883883\@sample.\header 6x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,1000)',
+ SECTION='';
+
+PART_NAME
+ P2 '8 HEADER_SIP_TM_L800_8_HEADER8':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883787@SAMPLE.8 HEADER.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883787\@sample.\8 header.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883787\@sample.\8 header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,50)',
+ SECTION='';
+
+PART_NAME
+ P3 'IBMPC_ECON100_VS_TM2SQ_W400_62_ECON62':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761523@SAMPLE.IBMPC.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761523\@sample.\ibmpc.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761523\@sample.\ibmpc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,990)',
+ SECTION='';
+
+PART_NAME
+ P4 'CONNECTOR DB25_DSUB_VP_TM_25_DB25P':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411937@SAMPLE.CONNECTOR DB25.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411937\@sample.\connector db25.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411937\@sample.\connector db25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1850,90)',
+ SECTION='';
+
+PART_NAME
+ P5 'DIN96_DIN96_ABC_R_DIN96':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938672@SAMPLE.DIN96.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938672\@sample.\din96.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938672\@sample.\din96.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,40)',
+ SECTION='';
+
+PART_NAME
+ P6 'HEADER 25X2_LATCON100_VH_TM2OE_W350_50_HEADER50':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938671@SAMPLE.HEADER 25X2.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938671\@sample.\header 25x2.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938671\@sample.\header 25x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,50)',
+ SECTION='';
+
+PART_NAME
+ P7 'HEADER 8X2_LATCON100_VH_TM2OE_W350_16_HEADER16':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938679@SAMPLE.HEADER 8X2.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938679\@sample.\header 8x2.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938679\@sample.\header 8x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1740,480)',
+ SECTION='';
+
+PART_NAME
+ P8 'PC AT BUS_BLKCON100_VH_TM20E_W200_96_HEADER98':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938670@XLATTEMP.PC AT BUS.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938670\@xlattemp.\pc at bus.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938670\@xlattemp.\pc at bus.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,570)',
+ SECTION='';
+
+PART_NAME
+ P9 'HEADER 10_LATCON100_VH_TM2OE_W350_10_HEADER10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938677@SAMPLE.HEADER 10.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938677\@sample.\header 10.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938677\@sample.\header 10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1530,830)',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN_TO220AB_2N3904':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761564@SAMPLE.NPN.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761564\@sample.\npn.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761564\@sample.\npn.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1760,900)',
+ SECTION='';
+
+PART_NAME
+ Q2 'PNP_TO220AB_2N3906':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411975@SAMPLE.PNP.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411975\@sample.\pnp.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411975\@sample.\pnp.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,550)',
+ SECTION='';
+
+PART_NAME
+ Q3 'NPN_TO220AB_2N3904':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411953@SAMPLE.NPN.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411953\@sample.\npn.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411953\@sample.\npn.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,630)',
+ SECTION='';
+
+PART_NAME
+ Q4 'NPN_TO220AB_2N3904':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411948@SAMPLE.NPN.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411948\@sample.\npn.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411948\@sample.\npn.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,680)',
+ SECTION='';
+
+PART_NAME
+ Q5 'NPN_TO220AB_2N3904':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411949@SAMPLE.NPN.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411949\@sample.\npn.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411949\@sample.\npn.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,710)',
+ SECTION='';
+
+PART_NAME
+ Q6 'NPN_TO220AB_2N3904':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411927@SAMPLE.NPN.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411927\@sample.\npn.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411927\@sample.\npn.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,1020)',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_SMR_0603_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883881@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883881\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883881\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,810)',
+ SECTION='';
+
+PART_NAME
+ R10 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883766@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883766\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883766\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,810)',
+ SECTION='';
+
+PART_NAME
+ R11 'R_SMR_1206_2.2K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883755@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883755\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883755\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,840)',
+ SECTION='';
+
+PART_NAME
+ R12 'R_SMR_0805_2.0K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883762@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883762\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883762\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,840)',
+ SECTION='';
+
+PART_NAME
+ R13 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883726@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883726\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883726\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,840)',
+ SECTION='';
+
+PART_NAME
+ R14 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883727@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883727\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883727\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,840)',
+ SECTION='';
+
+PART_NAME
+ R15 'R_SMR_1206_2.0K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883761@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883761\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883761\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,890)',
+ SECTION='';
+
+PART_NAME
+ R16 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883765@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883765\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883765\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,980)',
+ SECTION='';
+
+PART_NAME
+ R17 'R_SMR_1206_2.2K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883753@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883753\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883753\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,1010)',
+ SECTION='';
+
+PART_NAME
+ R18 'R_SMR_1206_2.0K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883763@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883763\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883763\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,1010)',
+ SECTION='';
+
+PART_NAME
+ R19 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883714@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883714\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883714\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,1010)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_SMR_0603_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883882@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883882\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883882\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,840)',
+ SECTION='';
+
+PART_NAME
+ R20 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883715@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883715\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883715\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,1010)',
+ SECTION='';
+
+PART_NAME
+ R21 'R_SMR_0805_2.0K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883764@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883764\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883764\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,1060)',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_SMR_0805_330':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883899@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883899\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883899\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1350,280)',
+ SECTION='';
+
+PART_NAME
+ R23 'SMALL R1_SMR_0402_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883914@SAMPLE.SMALL R1.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883914\@sample.\small r1.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883914\@sample.\small r1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,840)',
+ SECTION='';
+
+PART_NAME
+ R24 'SMALL R1_SMR_0402_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883917@SAMPLE.SMALL R1.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883917\@sample.\small r1.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883917\@sample.\small r1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,850)',
+ SECTION='';
+
+PART_NAME
+ R25 'SMALL R1_SMR_0402_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883916@SAMPLE.SMALL R1.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883916\@sample.\small r1.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883916\@sample.\small r1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,860)',
+ SECTION='';
+
+PART_NAME
+ R26 'SMALL R1_SMR_0402_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883915@SAMPLE.SMALL R1.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883915\@sample.\small r1.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883915\@sample.\small r1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,870)',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_SMR_0402_2.7K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883900@SAMPLE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883900\@sample.\resistor.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883900\@sample.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,930)',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761563@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761563\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761563\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,250)',
+ SECTION='';
+
+PART_NAME
+ R29 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761562@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761562\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761562\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,640)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883880@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883880\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883880\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1600,850)',
+ SECTION='';
+
+PART_NAME
+ R30 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761561@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761561\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761561\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,860)',
+ SECTION='';
+
+PART_NAME
+ R31 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761560@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761560\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761560\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,860)',
+ SECTION='';
+
+PART_NAME
+ R32 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761559@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761559\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761559\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,860)',
+ SECTION='';
+
+PART_NAME
+ R33 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761558@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761558\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761558\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,860)',
+ SECTION='';
+
+PART_NAME
+ R34 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761553@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761553\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761553\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1720,860)',
+ SECTION='';
+
+PART_NAME
+ R35 'R_SMR_0805_22':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761556@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761556\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761556\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,950)',
+ SECTION='';
+
+PART_NAME
+ R36 'R_SMR_0805_22':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761555@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761555\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761555\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,940)',
+ SECTION='';
+
+PART_NAME
+ R37 'R_SMR_0805_22':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761557@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761557\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761557\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,960)',
+ SECTION='';
+
+PART_NAME
+ R38 'R_SMR_1206_1.0M':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761554@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761554\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761554\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1530,1000)',
+ SECTION='';
+
+PART_NAME
+ R39 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761543@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761543\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761543\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1490,1030)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883767@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883767\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883767\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,650)',
+ SECTION='';
+
+PART_NAME
+ R40 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411950@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411950\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411950\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,330)',
+ SECTION='';
+
+PART_NAME
+ R41 'R_SMR_0805_22K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411930@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411930\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411930\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,500)',
+ SECTION='';
+
+PART_NAME
+ R42 'R_SMR_0805_22K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411929@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411929\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411929\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,580)',
+ SECTION='';
+
+PART_NAME
+ R43 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411940@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411940\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411940\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,650)',
+ SECTION='';
+
+PART_NAME
+ R44 'R_SMR_1206_1K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411961@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411961\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411961\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,510)',
+ SECTION='';
+
+PART_NAME
+ R45 'R_SMR_0805_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411965@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411965\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411965\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,560)',
+ SECTION='';
+
+PART_NAME
+ R46 'R_SMR_1206_20K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411962@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411962\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411962\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,630)',
+ SECTION='';
+
+PART_NAME
+ R47 'R_SMR_1206_1K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411952@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411952\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411952\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,620)',
+ SECTION='';
+
+PART_NAME
+ R48 'R_SMR_1206_1K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411946@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411946\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411946\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,680)',
+ SECTION='';
+
+PART_NAME
+ R49 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411945@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411945\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411945\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,680)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SMR_1206_2.2K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883757@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883757\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883757\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,680)',
+ SECTION='';
+
+PART_NAME
+ R50 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411947@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411947\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411947\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,710)',
+ SECTION='';
+
+PART_NAME
+ R51 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411944@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411944\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411944\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,710)',
+ SECTION='';
+
+PART_NAME
+ R52 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411964@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411964\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411964\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,880)',
+ SECTION='';
+
+PART_NAME
+ R53 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411963@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411963\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411963\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,880)',
+ SECTION='';
+
+PART_NAME
+ R54 'R_SMR_0805_22K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411926@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411926\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411926\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,960)',
+ SECTION='';
+
+PART_NAME
+ R55 'R_SMR_0805_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411941@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411941\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411941\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,1020)',
+ SECTION='';
+
+PART_NAME
+ R56 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411942@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411942\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411942\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,1040)',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_SMR_0603_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956901558@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956901558\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956901558\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,150)',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_SMR_0603_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938668@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938668\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938668\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,240)',
+ SECTION='';
+
+PART_NAME
+ R59 'RESISTOR_SMR_0603_10':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938667@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938667\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938667\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,270)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SMR_0805_2.0K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883759@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883759\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883759\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,680)',
+ SECTION='';
+
+PART_NAME
+ R60 'R_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938682@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938682\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938682\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,350)',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_AXRC05_10K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938669@SAMPLE.RESISTOR.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938669\@sample.\resistor.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938669\@sample.\resistor.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1710,680)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883738@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883738\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883738\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,680)',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SMR_1206_75':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883739@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883739\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883739\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,680)',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SMR_1206_2.0K':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883760@SAMPLE.R.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883760\@sample.\r.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883760\@sample.\r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,730)',
+ SECTION='';
+
+PART_NAME
+ S1 'SW PUSHBUTTON_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883789@SAMPLE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883789\@sample.\sw pushbutton.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883789\@sample.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,50)',
+ SECTION='';
+
+PART_NAME
+ S2 'SW PUSHBUTTON_JUMPER_JUMPER200_BERG2':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938675@SAMPLE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938675\@sample.\sw pushbutton.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938675\@sample.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,840)',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP-105-01-00_SIP1P_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883884@SAMPLE.TP-105-01-00.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883884\@sample.\tp-105-01-00.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883884\@sample.\tp-105-01-00.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,960)',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP-105-01-00_SIP1P_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883786@SAMPLE.TP-105-01-00.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883786\@sample.\tp-105-01-00.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883786\@sample.\tp-105-01-00.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,250)',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP-105-01-00_SIP1P_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883788@SAMPLE.TP-105-01-00.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883788\@sample.\tp-105-01-00.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883788\@sample.\tp-105-01-00.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,270)',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP-105-01-00_SIP1P_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938674@SAMPLE.TP-105-01-00.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938674\@sample.\tp-105-01-00.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938674\@sample.\tp-105-01-00.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,440)',
+ SECTION='';
+
+PART_NAME
+ U1 '7C185_DIP100_20_W300_L1050_6264_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883887@XLATTEMP.7C185.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883887\@xlattemp.\7c185.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883887\@xlattemp.\7c185.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,220)',
+ SECTION='';
+
+PART_NAME
+ U10 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883894@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883894\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883894\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,910)',
+ SECTION='';
+
+PART_NAME
+ U11 '22V10_PLCC28_22V10_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883892@XLATTEMP.22V10.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883892\@xlattemp.\22v10.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883892\@xlattemp.\22v10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,1000)',
+ SECTION='';
+
+PART_NAME
+ U12 'ADSP-2101KP-50_DIP100_20_W300_L1050_2105':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883783@SAMPLE.ADSP-2101KP-50.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883783\@sample.\adsp-2101kp-50.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883783\@sample.\adsp-2101kp-50.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,160)',
+ SECTION='';
+
+PART_NAME
+ U13 'AD9300KP_PLCC20_AD9300KP':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883750@SAMPLE.AD9300KP.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883750\@sample.\ad9300kp.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883750\@sample.\ad9300kp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,640)',
+ SECTION='';
+
+PART_NAME
+ U14 'LM2902_DIP100_16_W300_L800_LM2902':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I65488@OPAMP.LM2902.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):i65488@opamp.\lm2902.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):page2_i65488@opamp.\lm2902.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,640)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SAMPLE.SCHEMATIC(SCH_1):I65554@OPAMP.LM2902.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):i65554@opamp.\lm2902.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):page2_i65554@opamp.\lm2902.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,640)',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@SAMPLE.SCHEMATIC(SCH_1):I65556@OPAMP.LM2902.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):i65556@opamp.\lm2902.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):page2_i65556@opamp.\lm2902.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,640)',
+ SECTION='C';
+
+PART_NAME
+ U15 'AD9300KP_PLCC20_AD9300KP':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883751@SAMPLE.AD9300KP.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883751\@sample.\ad9300kp.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883751\@sample.\ad9300kp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,800)',
+ SECTION='';
+
+PART_NAME
+ U16 'AD9300KP_PLCC20_AD9300KP':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883752@SAMPLE.AD9300KP.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883752\@sample.\ad9300kp.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883752\@sample.\ad9300kp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,970)',
+ SECTION='';
+
+PART_NAME
+ U17 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883922@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883922\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883922\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,200)',
+ SECTION='';
+
+PART_NAME
+ U18 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883908@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883908\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883908\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,200)',
+ SECTION='';
+
+PART_NAME
+ U19 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883925@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883925\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883925\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,190)',
+ SECTION='';
+
+PART_NAME
+ U2 '7C185_DIP100_20_W300_L1050_6264_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883888@XLATTEMP.7C185.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883888\@xlattemp.\7c185.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883888\@xlattemp.\7c185.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,220)',
+ SECTION='';
+
+PART_NAME
+ U20 '74ALS273_DIP100_20_W300_L1050_74ALS273_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883927@XLATTEMP.74ALS273.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883927\@xlattemp.\74als273.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883927\@xlattemp.\74als273.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,190)',
+ SECTION='';
+
+PART_NAME
+ U21 'IDT7201_DIP100_16_W300_L800_7201_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883901@XLATTEMP.IDT7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883901\@xlattemp.\idt7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883901\@xlattemp.\idt7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,200)',
+ SECTION='';
+
+PART_NAME
+ U22 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883921@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883921\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883921\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,350)',
+ SECTION='';
+
+PART_NAME
+ U23 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883928@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883928\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883928\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,350)',
+ SECTION='';
+
+PART_NAME
+ U24 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883920@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883920\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883920\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,340)',
+ SECTION='';
+
+PART_NAME
+ U25 '74ALS273_DIP100_20_W300_L1050_74ALS273_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883926@XLATTEMP.74ALS273.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883926\@xlattemp.\74als273.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883926\@xlattemp.\74als273.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,340)',
+ SECTION='';
+
+PART_NAME
+ U26 'IDT7201_DIP100_16_W300_L800_7201_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883902@XLATTEMP.IDT7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883902\@xlattemp.\idt7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883902\@xlattemp.\idt7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,390)',
+ SECTION='';
+
+PART_NAME
+ U27 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883931@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883931\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883931\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,500)',
+ SECTION='';
+
+PART_NAME
+ U28 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883929@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883929\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883929\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,500)',
+ SECTION='';
+
+PART_NAME
+ U29 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883919@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883919\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883919\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,490)',
+ SECTION='';
+
+PART_NAME
+ U3 'IDT7201_DIP100_16_W300_L800_7201_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883890@XLATTEMP.IDT7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883890\@xlattemp.\idt7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883890\@xlattemp.\idt7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,270)',
+ SECTION='';
+
+PART_NAME
+ U30 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883924@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883924\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883924\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,490)',
+ SECTION='';
+
+PART_NAME
+ U31 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883930@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883930\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883930\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,650)',
+ SECTION='';
+
+PART_NAME
+ U32 '74ALS245_DIP100_20_W300_L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883918@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883918\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883918\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,650)',
+ SECTION='';
+
+PART_NAME
+ U33 'IDT7201_DIP100_16_W300_L800_7201_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883903@XLATTEMP.IDT7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883903\@xlattemp.\idt7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883903\@xlattemp.\idt7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,670)',
+ SECTION='';
+
+PART_NAME
+ U34 '22V10_PLCC28_22V10_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883906@XLATTEMP.22V10.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883906\@xlattemp.\22v10.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883906\@xlattemp.\22v10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,810)',
+ SECTION='';
+
+PART_NAME
+ U35 '74ALS573_DIP100_20_W300_L1050_74HC573_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883923@XLATTEMP.74ALS573.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883923\@xlattemp.\74als573.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883923\@xlattemp.\74als573.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,870)',
+ SECTION='';
+
+PART_NAME
+ U36 '22V10_PLCC28_22V10_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883907@XLATTEMP.22V10.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883907\@xlattemp.\22v10.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883907\@xlattemp.\22v10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,870)',
+ SECTION='';
+
+PART_NAME
+ U37 'IDT7201_DIP100_16_W300_L800_7201_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883904@XLATTEMP.IDT7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883904\@xlattemp.\idt7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883904\@xlattemp.\idt7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,860)',
+ SECTION='';
+
+PART_NAME
+ U38 '22V10_PLCC28_22V10_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883905@XLATTEMP.22V10.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883905\@xlattemp.\22v10.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page3_i-956883905\@xlattemp.\22v10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,970)',
+ SECTION='';
+
+PART_NAME
+ U39 '74HC244_DIP100_20_W300_L1050_74HC244_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761526@XLATTEMP.74HC244.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761526\@xlattemp.\74hc244.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761526\@xlattemp.\74hc244.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,50)',
+ SECTION='';
+
+PART_NAME
+ U4 '7C185_DIP100_20_W300_L1050_6264_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883886@XLATTEMP.7C185.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883886\@xlattemp.\7c185.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883886\@xlattemp.\7c185.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,430)',
+ SECTION='';
+
+PART_NAME
+ U40 '22V10A_PLCC28_22V10_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761529@XLATTEMP.22V10A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761529\@xlattemp.\22v10a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761529\@xlattemp.\22v10a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,200)',
+ SECTION='';
+
+PART_NAME
+ U41 '6208S_DIP100_18_W300_L900_6208S_+5_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761537@XLATTEMP.6208S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761537\@xlattemp.\6208s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761537\@xlattemp.\6208s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1590,170)',
+ SECTION='';
+
+PART_NAME
+ U42 '6208S_DIP100_18_W300_L900_6208S_+5_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761571@XLATTEMP.6208S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761571\@xlattemp.\6208s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761571\@xlattemp.\6208s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1800,170)',
+ SECTION='';
+
+PART_NAME
+ U43 '74S133_DIP100_20_W300_L1050_74S133_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761524@XLATTEMP.74S133.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761524\@xlattemp.\74s133.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761524\@xlattemp.\74s133.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,250)',
+ SECTION='';
+
+PART_NAME
+ U44 'MC56001_PGA11_050_88_D034_W1200_MC56001_+5_+5_+5_+5_+5_+5_+5_+5_+5_+5_PCD17_PCD17_PCD17_PCD17_PCD17_':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761572@XLATTEMP.MC56001.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761572\@xlattemp.\mc56001.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761572\@xlattemp.\mc56001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,300)',
+ SECTION='';
+
+PART_NAME
+ U45 '16L8_DIP100_20_W300_L1050_PAL16L8_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761547@XLATTEMP.16L8.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761547\@xlattemp.\16l8.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761547\@xlattemp.\16l8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,410)',
+ SECTION='';
+
+PART_NAME
+ U46 '6208S_DIP100_18_W300_L900_6208S_+5_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761538@XLATTEMP.6208S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761538\@xlattemp.\6208s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761538\@xlattemp.\6208s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1590,380)',
+ SECTION='';
+
+PART_NAME
+ U47 '6208S_DIP100_18_W300_L900_6208S_+5_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761570@XLATTEMP.6208S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761570\@xlattemp.\6208s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761570\@xlattemp.\6208s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1800,380)',
+ SECTION='';
+
+PART_NAME
+ U48 '22V10A_PLCC28_22V10_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761550@XLATTEMP.22V10A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761550\@xlattemp.\22v10a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761550\@xlattemp.\22v10a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,450)',
+ SECTION='';
+
+PART_NAME
+ U49 '22V10A_PLCC28_22V10_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761549@XLATTEMP.22V10A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761549\@xlattemp.\22v10a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761549\@xlattemp.\22v10a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,450)',
+ SECTION='';
+
+PART_NAME
+ U5 '7C185_DIP100_20_W300_L1050_6264_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883889@XLATTEMP.7C185.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883889\@xlattemp.\7c185.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883889\@xlattemp.\7c185.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,450)',
+ SECTION='';
+
+PART_NAME
+ U50 '22V10A_PLCC28_22V10_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761548@XLATTEMP.22V10A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761548\@xlattemp.\22v10a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761548\@xlattemp.\22v10a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,570)',
+ SECTION='';
+
+PART_NAME
+ U51 '6208S_DIP100_18_W300_L900_6208S_+5_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761539@XLATTEMP.6208S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761539\@xlattemp.\6208s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761539\@xlattemp.\6208s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1590,590)',
+ SECTION='';
+
+PART_NAME
+ U52 '6208S_DIP100_18_W300_L900_6208S_+5_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761569@XLATTEMP.6208S.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761569\@xlattemp.\6208s.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761569\@xlattemp.\6208s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1800,590)',
+ SECTION='';
+
+PART_NAME
+ U53 '74LS245_DIP100_20_W300_L1050_74LS245_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761527@XLATTEMP.74LS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761527\@xlattemp.\74ls245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761527\@xlattemp.\74ls245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,740)',
+ SECTION='';
+
+PART_NAME
+ U54 '16L8_DIP100_20_W300_L1050_PAL16L8_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761528@XLATTEMP.16L8.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761528\@xlattemp.\16l8.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761528\@xlattemp.\16l8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,760)',
+ SECTION='';
+
+PART_NAME
+ U55 '16C450FN_QUAD050_44_WG785_CTX_16C450FN_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761568@XLATTEMP.16C450FN.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761568\@xlattemp.\16c450fn.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761568\@xlattemp.\16c450fn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,800)',
+ SECTION='';
+
+PART_NAME
+ U56 '74LS245_DIP100_20_W300_L1050_74LS245_+5_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761525@XLATTEMP.74LS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-955761525\@xlattemp.\74ls245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761525\@xlattemp.\74ls245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,890)',
+ SECTION='';
+
+PART_NAME
+ U57 '7201_DIP100_16_W300_L800_7201_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411973@XLATTEMP.7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411973\@xlattemp.\7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411973\@xlattemp.\7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,40)',
+ SECTION='';
+
+PART_NAME
+ U58 '74HC595_DIP100_20_W300_L1050_74HC595_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411919@SAMPLE.74HC595.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411919\@sample.\74hc595.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411919\@sample.\74hc595.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,40)',
+ SECTION='';
+
+PART_NAME
+ U59 '22V10A_PLCC28_22V10_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411936@XLATTEMP.22V10A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411936\@xlattemp.\22v10a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411936\@xlattemp.\22v10a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,70)',
+ SECTION='';
+
+PART_NAME
+ U6 'IDT7201_DIP100_16_W300_L800_7201_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883891@XLATTEMP.IDT7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883891\@xlattemp.\idt7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883891\@xlattemp.\idt7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,530)',
+ SECTION='';
+
+PART_NAME
+ U60 '74HC163_DIP100_20_W300_L1050_74HC163_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411922@XLATTEMP.74HC163.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411922\@xlattemp.\74hc163.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411922\@xlattemp.\74hc163.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,110)',
+ SECTION='';
+
+PART_NAME
+ U61 '27010A_PLCC32_27C010_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411971@XLATTEMP.27010A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411971\@xlattemp.\27010a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411971\@xlattemp.\27010a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,80)',
+ SECTION='';
+
+PART_NAME
+ U62 '74HC165_DIP100_20_W300_L1050_74HC165_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411923@XLATTEMP.74HC165.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411923\@xlattemp.\74hc165.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411923\@xlattemp.\74hc165.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,70)',
+ SECTION='';
+
+PART_NAME
+ U63 'MC34051_SOJ050_16_WB300_L400_MC34051_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411956@XLATTEMP.MC34051.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411956\@xlattemp.\mc34051.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411956\@xlattemp.\mc34051.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,80)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411968@XLATTEMP.MC34051.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411968\@xlattemp.\mc34051.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411968\@xlattemp.\mc34051.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,80)',
+ SECTION='B';
+
+PART_NAME
+ U64 '7201_DIP100_16_W300_L800_7201_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411972@XLATTEMP.7201.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411972\@xlattemp.\7201.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411972\@xlattemp.\7201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,220)',
+ SECTION='';
+
+PART_NAME
+ U65 '22V10A_PLCC28_22V10_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411935@XLATTEMP.22V10A.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411935\@xlattemp.\22v10a.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411935\@xlattemp.\22v10a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,200)',
+ SECTION='';
+
+PART_NAME
+ U66 '75176_DIP100_8_W300L400_75176_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411970@XLATTEMP.75176.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411970\@xlattemp.\75176.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411970\@xlattemp.\75176.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1550,200)',
+ SECTION='';
+
+PART_NAME
+ U67 '74HC163_DIP100_20_W300_L1050_74HC163_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411921@XLATTEMP.74HC163.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411921\@xlattemp.\74hc163.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411921\@xlattemp.\74hc163.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,250)',
+ SECTION='';
+
+PART_NAME
+ U68 '74HC163_DIP100_20_W300_L1050_74HC163_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411920@XLATTEMP.74HC163.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411920\@xlattemp.\74hc163.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411920\@xlattemp.\74hc163.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,250)',
+ SECTION='';
+
+PART_NAME
+ U69 '74HC374_DIP100_20_W300_L1050_74HC374_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411924@XLATTEMP.74HC374.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-957411924\@xlattemp.\74hc374.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411924\@xlattemp.\74hc374.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,250)',
+ SECTION='';
+
+PART_NAME
+ U7 '7C185_DIP100_20_W300_L1050_6264_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883885@XLATTEMP.7C185.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883885\@xlattemp.\7c185.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883885\@xlattemp.\7c185.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,640)',
+ SECTION='';
+
+PART_NAME
+ U70 '75176_DIP100_8_W300L400_75176_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411969@XLATTEMP.75176.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411969\@xlattemp.\75176.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411969\@xlattemp.\75176.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,280)',
+ SECTION='';
+
+PART_NAME
+ U71 '53C94_DIP100_20_W300_L1050_53C94_+5_+5_GND_GND_GND_GND_GND_GND_GND_GND_GND':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411966@XLATTEMP.53C94.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411966\@xlattemp.\53c94.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411966\@xlattemp.\53c94.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,550)',
+ SECTION='';
+
+PART_NAME
+ U72 'MC34051_SOJ050_16_WB300L400_MC34051_PCD4':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-957411967@XLATTEMP.MC34051.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-957411967\@xlattemp.\mc34051.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page5_i-957411967\@xlattemp.\mc34051.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,530)',
+ SECTION='A';
+
+PART_NAME
+ U73 '68HC11_QUAD65M_64_WG1400_MC68HC11F':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938676@XLATTEMP.68HC11.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938676\@xlattemp.\68hc11.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938676\@xlattemp.\68hc11.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,70)',
+ SECTION='';
+
+PART_NAME
+ U74 '22V10_PLCC28_22V10_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938683@XLATTEMP.22V10.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938683\@xlattemp.\22v10.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938683\@xlattemp.\22v10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1370,120)',
+ SECTION='';
+
+PART_NAME
+ U75 '74LS138_SOJ050_16_WB300_L400_74LS138_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938687@XLATTEMP.74LS138.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938687\@xlattemp.\74ls138.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938687\@xlattemp.\74ls138.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,300)',
+ SECTION='';
+
+PART_NAME
+ U76 '43256_DIP100_16_W300_L800_62256_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938678@XLATTEMP.43256.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938678\@xlattemp.\43256.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938678\@xlattemp.\43256.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,540)',
+ SECTION='';
+
+PART_NAME
+ U77 'MC1413_DIP100_16_W300_L875_MC1413P':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938685@XLATTEMP.MC1413.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938685\@xlattemp.\mc1413.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938685\@xlattemp.\mc1413.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1670,750)',
+ SECTION='';
+
+PART_NAME
+ U78 'MC145407P_DIP100_20_W300L1050_MC145407P':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938694@SAMPLE.MC145407P.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938694\@sample.\mc145407p.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938694\@sample.\mc145407p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,820)',
+ SECTION='';
+
+PART_NAME
+ U79 'MC34064_TO226AB_MC34164P-5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938686@XLATTEMP.MC34064.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938686\@xlattemp.\mc34064.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938686\@xlattemp.\mc34064.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,900)',
+ SECTION='';
+
+PART_NAME
+ U8 '74ALS273_DIP100_20_W300_L1050_74ALS273_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883895@XLATTEMP.74ALS273.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883895\@xlattemp.\74als273.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883895\@xlattemp.\74als273.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,760)',
+ SECTION='';
+
+PART_NAME
+ U80 '74ALS245_DIP100_20_W300L1050_74ALS245_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938684@XLATTEMP.74ALS245.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956938684\@xlattemp.\74als245.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938684\@xlattemp.\74als245.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1730,920)',
+ SECTION='';
+
+PART_NAME
+ U9 '74ALS138_DIP100_16_W300_L775_74ALS138_+5':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883898@XLATTEMP.74ALS138.NORMAL(SCH_1)':
+ C_PATH='@sample.schematic(sch_1):\i-956883898\@xlattemp.\74als138.normal\(sch_1)',
+ P_PATH='@sample.schematic(sch_1):\page1_i-956883898\@xlattemp.\74als138.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,850)',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_DISC_350X175_LS200X050_034_10MHZ':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956883790@SAMPLE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956883790\@sample.\crystal.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page2_i-956883790\@sample.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,150)',
+ SECTION='';
+
+PART_NAME
+ Y2 'OSC8_DIP100_14_W300_L800_24.576MHZ_PCD17':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761551@XLATTEMP.OSC8.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761551\@xlattemp.\osc8.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761551\@xlattemp.\osc8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ Y3 'CRYSTAL_DISC_350X175_LS200X050_034_4.9152MHZ':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-955761552@SAMPLE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-955761552\@sample.\crystal.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page4_i-955761552\@sample.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,1000)',
+ SECTION='';
+
+PART_NAME
+ Y4 'CRYSTAL_DISC_350X175_LS200X05_034_3.6864MHZ':;
+
+SECTION_NUMBER 1
+ '@SAMPLE.SCHEMATIC(SCH_1):I-956938693@SAMPLE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@sample.schematic(sch_1):\i-956938693\@sample.\crystal.normal\(chips)',
+ P_PATH='@sample.schematic(sch_1):\page6_i-956938693\@sample.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,350)',
+ SECTION='';
+
+END.

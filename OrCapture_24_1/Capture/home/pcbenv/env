@@ -1,0 +1,9 @@
+source $TELENV
+
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set padpath = $padpath $CDS_SITE/pcb/symbols $CDS_SITE/pcb/allegrolib
+set psmpath = $psmpath $CDS_SITE/pcb/symbols $CDS_SITE/pcb/allegrolib

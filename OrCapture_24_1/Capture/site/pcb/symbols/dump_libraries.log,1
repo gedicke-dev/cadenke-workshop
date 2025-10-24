@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Wed Dec  4 09:27:45 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Cadence/SPB_24.1/share/pcb/examples/board_design/symbols/soic16.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  SMD50_25 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                1
+
+Total number of symbols dumped:            0
+*****************************************************
+
